@@ -13,9 +13,12 @@ window.I18N = {
     markComplete: "Mark as Complete",
     completedLabel: "Completed",
     loading: "Loading content...",
-    contentMissing: "Content file could not be loaded yet. Add or check the markdown file for this topic.",
+    contentMissing: "Content file could not be loaded yet. Add or check the HTML file for this topic.",
     fontStyle: "Font style",
-    backToSubjects: "Back to subjects"
+    backToSubjects: "Back to subjects",
+    subjectTests: "Test Yourself",
+    testYourself: "Test Yourself",
+    backToChapter: "Back to Chapter"
   },
   hi: {
     brandSub: "प्राथमिक शिक्षा में डिप्लोमा",
@@ -31,8 +34,11 @@ window.I18N = {
     markComplete: "पूर्ण चिह्नित करें",
     completedLabel: "पूर्ण",
     loading: "सामग्री लोड हो रही है...",
-    contentMissing: "सामग्री फाइल अभी लोड नहीं हो सकी। इस टॉपिक की markdown फाइल जोड़ें या जांचें।",
+    contentMissing: "सामग्री फाइल अभी लोड नहीं हो सकी। इस टॉपिक की HTML फाइल जोड़ें या जांचें।",
     fontStyle: "फॉन्ट शैली",
-    backToSubjects: "विषयों पर वापस जाएं"
+    backToSubjects: "विषयों पर वापस जाएं",
+    subjectTests: "स्वयं जांचें",
+    testYourself: "स्वयं जांचें",
+    backToChapter: "अध्याय पर वापस जाएं"
   }
 };

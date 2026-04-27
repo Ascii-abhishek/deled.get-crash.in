@@ -24,8 +24,8 @@ window.COURSE_CATALOG = {
                 hi: "मुख्य विचार, विकास के चरण और चिंतन प्रश्न।"
               },
               file: {
-                en: "content/en/semester-1/childhood-and-development/meaning-of-childhood.md",
-                hi: "content/hi/semester-1/childhood-and-development/meaning-of-childhood.md"
+                en: "content/semester-1/childhood-and-development/en/meaning-of-childhood.html",
+                hi: "content/semester-1/childhood-and-development/hi/meaning-of-childhood.html"
               }
             },
             {
@@ -36,8 +36,8 @@ window.COURSE_CATALOG = {
                 hi: "सुरक्षा, खेल, भाषा और संबंध सीखने में कैसे सहायक होते हैं।"
               },
               file: {
-                en: "content/en/semester-1/childhood-and-development/learning-environment.md",
-                hi: "content/hi/semester-1/childhood-and-development/learning-environment.md"
+                en: "content/semester-1/childhood-and-development/en/learning-environment.html",
+                hi: "content/semester-1/childhood-and-development/hi/learning-environment.html"
               }
             }
           ]
@@ -58,8 +58,8 @@ window.COURSE_CATALOG = {
                 hi: "उद्देश्य, शिक्षण सामग्री, गतिविधियां और मूल्यांकन विचार।"
               },
               file: {
-                en: "content/en/semester-1/pedagogy/lesson-planning.md",
-                hi: "content/hi/semester-1/pedagogy/lesson-planning.md"
+                en: "content/semester-1/pedagogy/en/lesson-planning.html",
+                hi: "content/semester-1/pedagogy/hi/lesson-planning.html"
               }
             }
           ]
@@ -83,7 +83,7 @@ window.COURSE_CATALOG = {
               id: "early-literacy",
               title: { en: "Early Literacy", hi: "प्रारंभिक साक्षरता" },
               summary: { en: "Print awareness, stories, and foundational literacy habits.", hi: "मुद्रित सामग्री की समझ, कहानियां और साक्षरता की आदतें।" },
-              file: { en: "content/en/semester-2/language-learning/early-literacy.md", hi: "content/hi/semester-2/language-learning/early-literacy.md" }
+              file: { en: "content/semester-2/language-learning/en/early-literacy.html", hi: "content/semester-2/language-learning/hi/early-literacy.html" }
             }
           ]
         },
@@ -96,7 +96,7 @@ window.COURSE_CATALOG = {
               id: "classroom-routines",
               title: { en: "Classroom Routines", hi: "कक्षा दिनचर्या" },
               summary: { en: "Simple structures that make classrooms calm and predictable.", hi: "सरल व्यवस्थाएं जो कक्षा को शांत और पूर्वानुमेय बनाती हैं।" },
-              file: { en: "content/en/semester-2/school-culture/classroom-routines.md", hi: "content/hi/semester-2/school-culture/classroom-routines.md" }
+              file: { en: "content/semester-2/school-culture/en/classroom-routines.html", hi: "content/semester-2/school-culture/hi/classroom-routines.html" }
             }
           ]
         }
@@ -119,7 +119,7 @@ window.COURSE_CATALOG = {
               id: "barrier-free-classroom",
               title: { en: "Barrier-free Classroom", hi: "बाधा-मुक्त कक्षा" },
               summary: { en: "Access, participation, and practical teaching adjustments.", hi: "पहुंच, सहभागिता और व्यावहारिक शिक्षण बदलाव।" },
-              file: { en: "content/en/semester-3/inclusive-education/barrier-free-classroom.md", hi: "content/hi/semester-3/inclusive-education/barrier-free-classroom.md" }
+              file: { en: "content/semester-3/inclusive-education/en/barrier-free-classroom.html", hi: "content/semester-3/inclusive-education/hi/barrier-free-classroom.html" }
             }
           ]
         },
@@ -132,7 +132,7 @@ window.COURSE_CATALOG = {
               id: "local-environment",
               title: { en: "Local Environment", hi: "स्थानीय पर्यावरण" },
               summary: { en: "Connect EVS topics with children's surroundings.", hi: "ईवीएस विषयों को बच्चों के परिवेश से जोड़ें।" },
-              file: { en: "content/en/semester-3/environmental-studies/local-environment.md", hi: "content/hi/semester-3/environmental-studies/local-environment.md" }
+              file: { en: "content/semester-3/environmental-studies/en/local-environment.html", hi: "content/semester-3/environmental-studies/hi/local-environment.html" }
             }
           ]
         }
@@ -162,8 +162,12 @@ window.COURSE_CATALOG = {
                 hi: "जैव विकास, पारिस्थितिकी तंत्र के घटक, खाद्य-श्रृंखला, खाद्य-जाल और पारिस्थितिक पिरामिड।"
               },
               file: {
-                en: "content/en/semester-4/science/evolution-and-ecosystem.md",
-                hi: "content/hi/semester-4/science/evolution-and-ecosystem.md"
+                en: "content/semester-4/science/en/evolution-and-ecosystem.html",
+                hi: "content/semester-4/science/hi/evolution-and-ecosystem.html"
+              },
+              test: {
+                en: "content/semester-4/science/en/test_evolution-and-ecosystem.html",
+                hi: "content/semester-4/science/hi/test_evolution-and-ecosystem.html"
               }
             },
             {
@@ -174,8 +178,12 @@ window.COURSE_CATALOG = {
                 hi: "अयस्क, धातुओं का निष्कर्षण और धातु-अधातु में प्रमुख अंतर।"
               },
               file: {
-                en: "content/en/semester-4/science/minerals-and-metals.md",
-                hi: "content/hi/semester-4/science/minerals-and-metals.md"
+                en: "content/semester-4/science/en/minerals-and-metals.html",
+                hi: "content/semester-4/science/hi/minerals-and-metals.html"
+              },
+              test: {
+                en: "content/semester-4/science/en/test_minerals-and-metals.html",
+                hi: "content/semester-4/science/hi/test_minerals-and-metals.html"
               }
             },
             {
@@ -186,8 +194,8 @@ window.COURSE_CATALOG = {
                 hi: "आवर्त सारणी की मूल व्यवस्था और विद्युत ऋणात्मकता की अवधारणा।"
               },
               file: {
-                en: "content/en/semester-4/science/periodic-table-and-electronegativity.md",
-                hi: "content/hi/semester-4/science/periodic-table-and-electronegativity.md"
+                en: "content/semester-4/science/en/periodic-table-and-electronegativity.html",
+                hi: "content/semester-4/science/hi/periodic-table-and-electronegativity.html"
               }
             },
             {
@@ -198,8 +206,8 @@ window.COURSE_CATALOG = {
                 hi: "स्थिर आवेश, सुचालक, कुचालक, विद्युत धारा और दैनिक उपयोग।"
               },
               file: {
-                en: "content/en/semester-4/science/electric-charge-and-current.md",
-                hi: "content/hi/semester-4/science/electric-charge-and-current.md"
+                en: "content/semester-4/science/en/electric-charge-and-current.html",
+                hi: "content/semester-4/science/hi/electric-charge-and-current.html"
               }
             },
             {
@@ -210,8 +218,8 @@ window.COURSE_CATALOG = {
                 hi: "चुम्बक के गुण व उपयोग, पृथ्वी का चुम्बकीय व्यवहार और विद्युत चुम्बक।"
               },
               file: {
-                en: "content/en/semester-4/science/magnetism.md",
-                hi: "content/hi/semester-4/science/magnetism.md"
+                en: "content/semester-4/science/en/magnetism.html",
+                hi: "content/semester-4/science/hi/magnetism.html"
               }
             },
             {
@@ -222,8 +230,8 @@ window.COURSE_CATALOG = {
                 hi: "रक्त के घटक, रक्त वर्ग, रक्त बैंक और सुरक्षित रक्त आदान-प्रदान की सावधानियां।"
               },
               file: {
-                en: "content/en/semester-4/science/blood-structure-and-blood-groups.md",
-                hi: "content/hi/semester-4/science/blood-structure-and-blood-groups.md"
+                en: "content/semester-4/science/en/blood-structure-and-blood-groups.html",
+                hi: "content/semester-4/science/hi/blood-structure-and-blood-groups.html"
               }
             },
             {
@@ -234,8 +242,8 @@ window.COURSE_CATALOG = {
                 hi: "रक्त संबंधी सामान्य रोग, एड्स, हेपेटाइटिस-बी, लक्षण और बचाव।"
               },
               file: {
-                en: "content/en/semester-4/science/blood-related-diseases.md",
-                hi: "content/hi/semester-4/science/blood-related-diseases.md"
+                en: "content/semester-4/science/en/blood-related-diseases.html",
+                hi: "content/semester-4/science/hi/blood-related-diseases.html"
               }
             },
             {
@@ -246,8 +254,22 @@ window.COURSE_CATALOG = {
                 hi: "सुरक्षा की आदतें और सामान्य दुर्घटनाओं में प्राथमिक उपचार।"
               },
               file: {
-                en: "content/en/semester-4/science/safety-and-first-aid.md",
-                hi: "content/hi/semester-4/science/safety-and-first-aid.md"
+                en: "content/semester-4/science/en/safety-and-first-aid.html",
+                hi: "content/semester-4/science/hi/safety-and-first-aid.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "science-1",
+              title: { en: "Test 1", hi: "टेस्ट 1" },
+              summary: {
+                en: "Mixed practice from evolution, ecosystem, minerals, and metals.",
+                hi: "जैव विकास, पारिस्थितिकी तंत्र, खनिज और धातु से मिश्रित अभ्यास।"
+              },
+              file: {
+                en: "content/semester-4/science/tests/en/test_science_1.html",
+                hi: "content/semester-4/science/tests/hi/test_science_1.html"
               }
             }
           ]
@@ -261,7 +283,7 @@ window.COURSE_CATALOG = {
               id: "reflective-journal",
               title: { en: "Reflective Journal", hi: "चिंतन डायरी" },
               summary: { en: "Record classroom experiences and improve teaching decisions.", hi: "कक्षा अनुभव लिखें और शिक्षण निर्णय बेहतर बनाएं।" },
-              file: { en: "content/en/semester-4/internship/reflective-journal.md", hi: "content/hi/semester-4/internship/reflective-journal.md" }
+              file: { en: "content/semester-4/internship/en/reflective-journal.html", hi: "content/semester-4/internship/hi/reflective-journal.html" }
             }
           ]
         },
@@ -274,7 +296,7 @@ window.COURSE_CATALOG = {
               id: "formative-assessment",
               title: { en: "Formative Assessment", hi: "रचनात्मक मूल्यांकन" },
               summary: { en: "Use daily evidence to support learning in time.", hi: "दैनिक प्रमाणों से समय पर सीखने में सहयोग दें।" },
-              file: { en: "content/en/semester-4/assessment/formative-assessment.md", hi: "content/hi/semester-4/assessment/formative-assessment.md" }
+              file: { en: "content/semester-4/assessment/en/formative-assessment.html", hi: "content/semester-4/assessment/hi/formative-assessment.html" }
             }
           ]
         }
