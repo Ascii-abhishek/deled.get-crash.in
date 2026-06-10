@@ -10,6 +10,8 @@ Use this skill whenever `assets/js/catalog.js` changes.
 - Subject-level tests live inside the correct subject `tests` array.
 - Every `title` and `summary` must include `en` and `hi`.
 - Every `file` or `test` path must include `en` and `hi`.
+- Completed topics must include chapter-level `test.en` and `test.hi` paths after their tests are created.
+- Completed subjects must include subject-level test entries after their subject tests are created.
 
 ## Path Patterns
 
@@ -42,3 +44,7 @@ After editing `catalog.js`, verify:
 - All referenced English and Hindi files exist.
 - Topic IDs and subject IDs are stable lowercase slugs.
 - Topic order and test counts changed only when the task required it.
+- Chapter tests contain 10 MCQs, 5 short-answer questions, and 4 or 5 long-answer questions.
+- Subject tests contain 20 MCQs, 10 short-answer questions, and 5 to 7 long-answer questions.
+
+For `syllabus-map` tasks, every new topic path must have a minimal bilingual placeholder file. A placeholder may say the chapter is mapped and content is pending, but it must be valid lesson-snippet HTML and must not pretend to be a completed lesson.

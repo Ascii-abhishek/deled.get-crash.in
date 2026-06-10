@@ -15,6 +15,7 @@ Use this agent when adding or revising academic D.El.Ed topics, subjects, semest
 - Prefer official SCERT, board, university, government, or official textbook sources.
 - If official sources are unavailable, compare at least two credible syllabus or book sources.
 - Produce a compact topic map: semester, subject, chapter/topic IDs, English names, Hindi names, and source notes.
+- For `syllabus-map` tasks, update structure only: ordered topic map plus minimal placeholder files for routes.
 - Flag uncertainty instead of inventing missing syllabus details.
 
 ## Output Standard
@@ -28,4 +29,5 @@ Use this agent when adding or revising academic D.El.Ed topics, subjects, semest
 
 - Do not write long copied passages from sources.
 - Do not add catalog entries until file paths and bilingual content requirements are known.
+- Do not write full lesson content during a `syllabus-map` task.
 - Do not change existing topic order unless the task explicitly asks for reordering or research proves the current order is wrong.

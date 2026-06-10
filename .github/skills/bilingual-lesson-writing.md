@@ -5,7 +5,8 @@ Use this skill for English and Hindi lesson HTML files.
 ## Style
 
 - Crash-course, last-minute revision tone.
-- Short sections, bullets, tables, and classroom examples.
+- Full chapter coverage compressed into short sections, bullets, tables, and classroom examples.
+- Use short definitions, exam snapshots, concept tables, difference tables, memory hooks, and quick diagrams when useful.
 - Clear explanations for D.El.Ed students.
 - Practical elementary-school classroom connections.
 - Original writing only; no large copied passages.
@@ -24,6 +25,14 @@ Use this skill for English and Hindi lesson HTML files.
 - Keep heading order mostly parallel.
 - Keep examples culturally and classroom appropriate.
 - Hindi should be natural and readable, not word-by-word translation.
+- Do not make Hindi shorter than English in learning outcomes or test preparation value.
+
+## Completion Bar
+
+- Use Semester 4 Science chapter files as the reference for depth and shape.
+- A finished chapter is not a tiny overview. It should be enough for a student to revise the whole chapter quickly.
+- Include the main syllabus concepts, important terms, examples, common confusions, classroom application, one-minute revision, and likely exam lines.
+- Keep content scannable, but do not remove important concepts just to make the file shorter.
 
 ## Suggested Lesson Pattern
 
@@ -37,6 +46,9 @@ Use this skill for English and Hindi lesson HTML files.
 
 <h2>Key Points</h2>
 <ul>...</ul>
+
+<h2>Concepts And Differences</h2>
+<table>...</table>
 
 <h2>Classroom Connection</h2>
 <p>...</p>

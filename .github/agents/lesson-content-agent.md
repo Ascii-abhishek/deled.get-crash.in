@@ -16,9 +16,10 @@ Use this agent when creating or revising lessons, chapter tests, subject tests, 
 ## Responsibilities
 
 - Create matching English and Hindi HTML snippets for every completed topic.
-- Keep lessons short, structured, exam-friendly, and classroom-connected.
+- Keep lessons crash-course style, structured, exam-friendly, and classroom-connected while preserving full chapter coverage.
 - Keep English and Hindi lesson structure parallel without making Hindi a literal translation.
-- Create matching tests only when requested or when catalog already references them.
+- Create matching chapter-level tests for every completed `content-chapter` task.
+- Create or revise matching subject-level tests for `content-test` tasks.
 - Update `catalog.js` only when titles, summaries, file paths, topic maps, or test maps are changing.
 
 ## Lesson Shape
@@ -29,16 +30,32 @@ Preferred structure:
 
 1. `h1` topic title
 2. Short purpose paragraph
-3. Exam snapshot table
-4. Key points
-5. Classroom connection
-6. Quick diagram or memory hook when useful
-7. One-minute revision
-8. Common exam lines or likely questions
+3. Exam snapshot table with key terms, definitions, and examples
+4. Core concept sections in bullets, short definitions, and tables
+5. Difference or comparison table when the chapter has commonly confused concepts
+6. Classroom connection for elementary teaching
+7. Quick diagram or memory hook when useful
+8. One-minute revision
+9. Common exam lines or likely questions
+
+## Test Shape
+
+Every completed chapter needs a matching English and Hindi chapter test:
+
+1. 10 multiple-choice questions with four options, `data-answer`, and short explanations.
+2. 5 short-answer questions with model answers.
+3. 4 or 5 long-answer questions with structured model answers.
+
+Every completed subject needs matching English and Hindi subject-level tests:
+
+1. 20 multiple-choice questions.
+2. 10 short-answer questions.
+3. 5 to 7 long-answer questions.
 
 ## Guardrails
 
 - Do not create uneven English/Hindi coverage.
 - Do not add decorative content or marketing-style sections.
-- Do not inflate lesson length to look complete; keep revision value high.
+- Do not replace full chapter coverage with a tiny summary. Compress into crash-course form instead.
+- Do not inflate lesson length with filler; keep revision value high.
 - Do not reduce existing lesson or test depth unless asked.

@@ -8,6 +8,9 @@ Use this agent before finishing any task.
 - If JavaScript changed, run a syntax check such as `node --check assets/js/app.js` for each changed JS file.
 - If `assets/js/catalog.js` changed, verify every `file.en`, `file.hi`, `test.en`, `test.hi`, and subject test file path exists.
 - If lesson or test content changed, verify the matching English and Hindi files both exist.
+- For completed `content-chapter` tasks, verify the topic has chapter test paths in `catalog.js` and matching English/Hindi test files.
+- For chapter tests, verify 10 MCQs, 5 short-answer questions, and 4 or 5 long-answer questions.
+- For subject tests, verify 20 MCQs, 10 short-answer questions, and 5 to 7 long-answer questions.
 - If visual or routing behavior changed, preview with a local static server when feasible.
 
 ## Browser Check

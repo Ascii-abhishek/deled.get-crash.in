@@ -207,7 +207,26 @@ Recommended lesson shape:
 ```html
 <h1>Topic Title</h1>
 
-<p>Short introduction paragraph.</p>
+<p>Short purpose paragraph.</p>
+
+<h2>Exam Snapshot</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Term</th>
+      <th>Last-minute meaning</th>
+      <th>Example</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Key term</td>
+      <td>Short definition.</td>
+      <td>Classroom or exam example.</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2>Key Points</h2>
 
@@ -217,22 +236,56 @@ Recommended lesson shape:
   <li>Point three.</li>
 </ul>
 
+<h2>Concepts And Differences</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Concept A</th>
+      <th>Concept B</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Short comparison point.</td>
+      <td>Short comparison point.</td>
+    </tr>
+  </tbody>
+</table>
+
 <h2>Classroom Connection</h2>
 
 <p>Explain how this topic applies to elementary classrooms.</p>
 
-<h2>Reflect</h2>
+<h2>One-minute Revision</h2>
 
-<p>Add one question or activity for the student.</p>
+<ul>
+  <li>Fast recall point.</li>
+</ul>
+
+<h2>Common Exam Lines</h2>
+
+<ul>
+  <li>Likely exam sentence or answer starter.</li>
+</ul>
 ```
 
 Keep language simple and useful for D.El.Ed students. Prefer examples from elementary classrooms, school internships, child observation, lesson planning, assessment, and local/community context.
 
+For completed chapters, use Semester 4 Science as the quality reference: full chapter coverage in crash-course form, not a tiny overview. Use bullets, short definitions, snapshot tables, difference tables, quick diagrams or memory hooks, classroom connections, one-minute revision, and exam lines. The goal is that a student can revise the whole chapter quickly without losing important concepts.
+
 ## Test Yourself Template
 
-Each chapter can include a chapter-level test, and each subject can include multiple subject-level tests. In the reader, chapter tests are opened by the bottom `Test Yourself` button beside `Mark as Complete`. Subject tests appear in the left pane after chapter links under a separate `Test Yourself` heading.
+Each completed chapter must include a chapter-level test, and each completed subject must include subject-level tests. In the reader, chapter tests are opened by the bottom `Test Yourself` button beside `Mark as Complete`. Subject tests appear in the left pane after chapter links under a separate `Test Yourself` heading.
 
 Use three sections: multiple choice, short answer, and long answer. Copy the starter file from `assets/templates/test-yourself.html` when creating a new test.
+
+Required counts:
+
+- Chapter-level test: 10 multiple-choice questions, 5 short-answer questions, and 4 or 5 long-answer questions.
+- Subject-level test: 20 multiple-choice questions, 10 short-answer questions, and 5 to 7 long-answer questions.
+
+Do not add test paths to `catalog.js` until the matching English and Hindi test files exist.
 
 ```html
 <section class="test-yourself">

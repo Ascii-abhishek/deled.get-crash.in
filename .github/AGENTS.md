@@ -29,6 +29,39 @@ This repository is a plain static D.El.Ed learning website. The agentic workflow
 - App shell, routing, styling, or JavaScript: use `.github/agents/coding-agent.md`.
 - Final checks: use `.github/agents/verification-agent.md`.
 
+## Todo Routes
+
+Use route names in `todo.md`; do not repeat long skill lists in every todo item.
+
+- `syllabus-map`: Topic Research Agent -> Verification Agent.
+- `content-chapter`: Topic Research Agent -> Lesson Content Agent -> Verification Agent.
+- `content-test`: Lesson Content Agent -> Verification Agent.
+- `code-change`: Coding Agent -> Verification Agent.
+- `audit-only`: Verification Agent, with no content or code edits unless a bug is found and the user asked for fixes.
+
+For `syllabus-map`, use these skills:
+
+- `.github/skills/topic-research.md`
+- `.github/skills/syllabus-map.md`
+- `.github/skills/catalog-and-routing.md`
+- `.github/skills/static-site-verification.md`
+- `.github/skills/structure-guardrails.md`
+
+For `content-chapter`, use these skills:
+
+- `.github/skills/topic-research.md`
+- `.github/skills/catalog-and-routing.md`
+- `.github/skills/bilingual-lesson-writing.md`
+- `.github/skills/test-yourself-writing.md`
+- `.github/skills/static-site-verification.md`
+- `.github/skills/structure-guardrails.md`
+
+Each `syllabus-map` todo item must research one subject, update the full ordered chapter/topic map for that subject, and create only minimal bilingual placeholder files for newly mapped topics. Do not write full lessons or tests during `syllabus-map`.
+
+Each `content-chapter` todo item must add or fully revise exactly one chapter/topic at a time, including the attached chapter-level test. Do not start `content-chapter` tasks for a subject until its `syllabus-map` task is done.
+
+Each `content-test` todo item must add or fully revise subject-level tests after the subject's chapter-level content is complete.
+
 For content work, run the agents in this order:
 
 1. Topic Research Agent
@@ -44,17 +77,21 @@ For code work, run the agents in this order:
 
 - Every visible title and summary in `catalog.js` must have both `en` and `hi`.
 - Every completed topic must have matching English and Hindi HTML files.
-- Every completed chapter-level test must have matching English and Hindi HTML files.
+- Every completed topic must include an attached chapter-level test in `catalog.js`, with matching English and Hindi test files.
 - Subject-level tests must be listed under the subject `tests` array and use matching English and Hindi files.
 - Hindi must be natural academic Hindi, not word-by-word translation.
-- Lesson content must be original, short, scannable, and useful for last-minute D.El.Ed revision.
-- Prefer bullets, short tables, quick diagrams, exam lines, and elementary-school classroom examples.
+- Lesson content must be original, full enough for chapter revision, scannable, and useful for last-minute D.El.Ed preparation.
+- Prefer bullets, short definitions, snapshot tables, comparison tables, quick diagrams, exam lines, and elementary-school classroom examples.
+- Use Semester 4 Science as the quality reference: full crash-course chapter content, one chapter test per chapter, and subject-level tests.
+- Chapter tests must have 10 MCQs, 5 short-answer questions, and 4 or 5 long-answer questions.
+- Subject tests must have 20 MCQs, 10 short-answer questions, and 5 to 7 long-answer questions.
 
 ## Research Contract
 
 - Research the real course name, semester, subject, and chapter list before adding academic content.
 - Prefer official SCERT, board, university, or government sources.
 - If official sources are unreachable, use multiple credible syllabus or textbook sources.
+- Keep chapter order exactly as found in the best available source.
 - Mention source assumptions in the final response.
 - Do not copy large passages. Rewrite in student-friendly language.
 
