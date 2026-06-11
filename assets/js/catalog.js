@@ -311,6 +311,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/teaching-learning-principles/en/expected-learning-levels.html",
                 hi: "content/semester-1/teaching-learning-principles/hi/expected-learning-levels.html"
+              },
+              test: {
+                en: "content/semester-1/teaching-learning-principles/en/test_expected-learning-levels.html",
+                hi: "content/semester-1/teaching-learning-principles/hi/test_expected-learning-levels.html"
               }
             },
             {
@@ -326,6 +330,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/teaching-learning-principles/en/teaching-learning-materials.html",
                 hi: "content/semester-1/teaching-learning-principles/hi/teaching-learning-materials.html"
+              },
+              test: {
+                en: "content/semester-1/teaching-learning-principles/en/test_teaching-learning-materials.html",
+                hi: "content/semester-1/teaching-learning-principles/hi/test_teaching-learning-materials.html"
               }
             }
           ]
@@ -348,6 +356,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/science/en/living-things.html",
                 hi: "content/semester-1/science/hi/living-things.html"
+              },
+              test: {
+                en: "content/semester-1/science/en/test_living-things.html",
+                hi: "content/semester-1/science/hi/test_living-things.html"
               }
             },
             {
@@ -360,6 +372,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/science/en/plant-kingdom.html",
                 hi: "content/semester-1/science/hi/plant-kingdom.html"
+              },
+              test: {
+                en: "content/semester-1/science/en/test_plant-kingdom.html",
+                hi: "content/semester-1/science/hi/test_plant-kingdom.html"
               }
             },
             {
@@ -372,6 +388,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/science/en/reproduction-in-plants.html",
                 hi: "content/semester-1/science/hi/reproduction-in-plants.html"
+              },
+              test: {
+                en: "content/semester-1/science/en/test_reproduction-in-plants.html",
+                hi: "content/semester-1/science/hi/test_reproduction-in-plants.html"
               }
             },
             {
@@ -384,6 +404,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/science/en/physical-measurement.html",
                 hi: "content/semester-1/science/hi/physical-measurement.html"
+              },
+              test: {
+                en: "content/semester-1/science/en/test_physical-measurement.html",
+                hi: "content/semester-1/science/hi/test_physical-measurement.html"
               }
             },
             {
@@ -396,6 +420,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/science/en/motion-and-force.html",
                 hi: "content/semester-1/science/hi/motion-and-force.html"
+              },
+              test: {
+                en: "content/semester-1/science/en/test_motion-and-force.html",
+                hi: "content/semester-1/science/hi/test_motion-and-force.html"
               }
             },
             {
@@ -408,6 +436,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/science/en/matter-and-its-states.html",
                 hi: "content/semester-1/science/hi/matter-and-its-states.html"
+              },
+              test: {
+                en: "content/semester-1/science/en/test_matter-and-its-states.html",
+                hi: "content/semester-1/science/hi/test_matter-and-its-states.html"
               }
             },
             {
@@ -420,6 +452,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/science/en/model-preparation.html",
                 hi: "content/semester-1/science/hi/model-preparation.html"
+              },
+              test: {
+                en: "content/semester-1/science/en/test_model-preparation.html",
+                hi: "content/semester-1/science/hi/test_model-preparation.html"
               }
             }
           ]
@@ -442,6 +478,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/mathematics/en/numbers-and-place-value.html",
                 hi: "content/semester-1/mathematics/hi/numbers-and-place-value.html"
+              },
+              test: {
+                en: "content/semester-1/mathematics/en/test_numbers-and-place-value.html",
+                hi: "content/semester-1/mathematics/hi/test_numbers-and-place-value.html"
               }
             },
             {
@@ -454,6 +494,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/mathematics/en/multiplication-and-division.html",
                 hi: "content/semester-1/mathematics/hi/multiplication-and-division.html"
+              },
+              test: {
+                en: "content/semester-1/mathematics/en/test_multiplication-and-division.html",
+                hi: "content/semester-1/mathematics/hi/test_multiplication-and-division.html"
               }
             },
             {
@@ -466,6 +510,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/mathematics/en/fractions.html",
                 hi: "content/semester-1/mathematics/hi/fractions.html"
+              },
+              test: {
+                en: "content/semester-1/mathematics/en/test_fractions.html",
+                hi: "content/semester-1/mathematics/hi/test_fractions.html"
               }
             },
             {
@@ -478,6 +526,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/mathematics/en/decimal-numbers.html",
                 hi: "content/semester-1/mathematics/hi/decimal-numbers.html"
+              },
+              test: {
+                en: "content/semester-1/mathematics/en/test_decimal-numbers.html",
+                hi: "content/semester-1/mathematics/hi/test_decimal-numbers.html"
               }
             },
             {
@@ -490,6 +542,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/mathematics/en/factors-and-multiples.html",
                 hi: "content/semester-1/mathematics/hi/factors-and-multiples.html"
+              },
+              test: {
+                en: "content/semester-1/mathematics/en/test_factors-and-multiples.html",
+                hi: "content/semester-1/mathematics/hi/test_factors-and-multiples.html"
               }
             },
             {
@@ -502,6 +558,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/mathematics/en/prime-composite-lcm-hcf.html",
                 hi: "content/semester-1/mathematics/hi/prime-composite-lcm-hcf.html"
+              },
+              test: {
+                en: "content/semester-1/mathematics/en/test_prime-composite-lcm-hcf.html",
+                hi: "content/semester-1/mathematics/hi/test_prime-composite-lcm-hcf.html"
               }
             },
             {
@@ -514,6 +574,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/mathematics/en/percentage.html",
                 hi: "content/semester-1/mathematics/hi/percentage.html"
+              },
+              test: {
+                en: "content/semester-1/mathematics/en/test_percentage.html",
+                hi: "content/semester-1/mathematics/hi/test_percentage.html"
               }
             },
             {
@@ -526,6 +590,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/mathematics/en/data-representation.html",
                 hi: "content/semester-1/mathematics/hi/data-representation.html"
+              },
+              test: {
+                en: "content/semester-1/mathematics/en/test_data-representation.html",
+                hi: "content/semester-1/mathematics/hi/test_data-representation.html"
               }
             },
             {
@@ -538,6 +606,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/mathematics/en/algebraic-expressions.html",
                 hi: "content/semester-1/mathematics/hi/algebraic-expressions.html"
+              },
+              test: {
+                en: "content/semester-1/mathematics/en/test_algebraic-expressions.html",
+                hi: "content/semester-1/mathematics/hi/test_algebraic-expressions.html"
               }
             },
             {
@@ -550,6 +622,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/mathematics/en/basic-geometry.html",
                 hi: "content/semester-1/mathematics/hi/basic-geometry.html"
+              },
+              test: {
+                en: "content/semester-1/mathematics/en/test_basic-geometry.html",
+                hi: "content/semester-1/mathematics/hi/test_basic-geometry.html"
               }
             },
             {
@@ -562,6 +638,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/mathematics/en/angle-construction.html",
                 hi: "content/semester-1/mathematics/hi/angle-construction.html"
+              },
+              test: {
+                en: "content/semester-1/mathematics/en/test_angle-construction.html",
+                hi: "content/semester-1/mathematics/hi/test_angle-construction.html"
               }
             },
             {
@@ -574,6 +654,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/mathematics/en/types-of-angles.html",
                 hi: "content/semester-1/mathematics/hi/types-of-angles.html"
+              },
+              test: {
+                en: "content/semester-1/mathematics/en/test_types-of-angles.html",
+                hi: "content/semester-1/mathematics/hi/test_types-of-angles.html"
               }
             },
             {
@@ -586,6 +670,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/mathematics/en/plane-figures.html",
                 hi: "content/semester-1/mathematics/hi/plane-figures.html"
+              },
+              test: {
+                en: "content/semester-1/mathematics/en/test_plane-figures.html",
+                hi: "content/semester-1/mathematics/hi/test_plane-figures.html"
               }
             },
             {
@@ -598,6 +686,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/mathematics/en/perimeter.html",
                 hi: "content/semester-1/mathematics/hi/perimeter.html"
+              },
+              test: {
+                en: "content/semester-1/mathematics/en/test_perimeter.html",
+                hi: "content/semester-1/mathematics/hi/test_perimeter.html"
               }
             }
           ]
@@ -620,6 +712,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/social-science/en/meaning-importance-and-sources-of-history.html",
                 hi: "content/semester-1/social-science/hi/meaning-importance-and-sources-of-history.html"
+              },
+              test: {
+                en: "content/semester-1/social-science/en/test_meaning-importance-and-sources-of-history.html",
+                hi: "content/semester-1/social-science/hi/test_meaning-importance-and-sources-of-history.html"
               }
             },
             {
@@ -632,6 +728,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/social-science/en/human-origin-and-development.html",
                 hi: "content/semester-1/social-science/hi/human-origin-and-development.html"
+              },
+              test: {
+                en: "content/semester-1/social-science/en/test_human-origin-and-development.html",
+                hi: "content/semester-1/social-science/hi/test_human-origin-and-development.html"
               }
             },
             {
@@ -644,6 +744,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/social-science/en/river-valley-civilizations.html",
                 hi: "content/semester-1/social-science/hi/river-valley-civilizations.html"
+              },
+              test: {
+                en: "content/semester-1/social-science/en/test_river-valley-civilizations.html",
+                hi: "content/semester-1/social-science/hi/test_river-valley-civilizations.html"
               }
             },
             {
@@ -656,6 +760,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/social-science/en/vedic-period.html",
                 hi: "content/semester-1/social-science/hi/vedic-period.html"
+              },
+              test: {
+                en: "content/semester-1/social-science/en/test_vedic-period.html",
+                hi: "content/semester-1/social-science/hi/test_vedic-period.html"
               }
             },
             {
@@ -668,6 +776,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/social-science/en/mahajanapada-period.html",
                 hi: "content/semester-1/social-science/hi/mahajanapada-period.html"
+              },
+              test: {
+                en: "content/semester-1/social-science/en/test_mahajanapada-period.html",
+                hi: "content/semester-1/social-science/hi/test_mahajanapada-period.html"
               }
             },
             {
@@ -680,6 +792,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/social-science/en/upanishad-jainism-and-buddhism.html",
                 hi: "content/semester-1/social-science/hi/upanishad-jainism-and-buddhism.html"
+              },
+              test: {
+                en: "content/semester-1/social-science/en/test_upanishad-jainism-and-buddhism.html",
+                hi: "content/semester-1/social-science/hi/test_upanishad-jainism-and-buddhism.html"
               }
             },
             {
@@ -692,6 +808,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/social-science/en/solar-system.html",
                 hi: "content/semester-1/social-science/hi/solar-system.html"
+              },
+              test: {
+                en: "content/semester-1/social-science/en/test_solar-system.html",
+                hi: "content/semester-1/social-science/hi/test_solar-system.html"
               }
             },
             {
@@ -704,6 +824,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/social-science/en/mapping.html",
                 hi: "content/semester-1/social-science/hi/mapping.html"
+              },
+              test: {
+                en: "content/semester-1/social-science/en/test_mapping.html",
+                hi: "content/semester-1/social-science/hi/test_mapping.html"
               }
             },
             {
@@ -716,6 +840,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/social-science/en/globe-latitudes-and-longitudes.html",
                 hi: "content/semester-1/social-science/hi/globe-latitudes-and-longitudes.html"
+              },
+              test: {
+                en: "content/semester-1/social-science/en/test_globe-latitudes-and-longitudes.html",
+                hi: "content/semester-1/social-science/hi/test_globe-latitudes-and-longitudes.html"
               }
             },
             {
@@ -728,6 +856,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/social-science/en/heat-zones-of-earth.html",
                 hi: "content/semester-1/social-science/hi/heat-zones-of-earth.html"
+              },
+              test: {
+                en: "content/semester-1/social-science/en/test_heat-zones-of-earth.html",
+                hi: "content/semester-1/social-science/hi/test_heat-zones-of-earth.html"
               }
             },
             {
@@ -740,6 +872,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/social-science/en/movements-of-earth.html",
                 hi: "content/semester-1/social-science/hi/movements-of-earth.html"
+              },
+              test: {
+                en: "content/semester-1/social-science/en/test_movements-of-earth.html",
+                hi: "content/semester-1/social-science/hi/test_movements-of-earth.html"
               }
             },
             {
@@ -752,6 +888,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/social-science/en/continents-and-oceans.html",
                 hi: "content/semester-1/social-science/hi/continents-and-oceans.html"
+              },
+              test: {
+                en: "content/semester-1/social-science/en/test_continents-and-oceans.html",
+                hi: "content/semester-1/social-science/hi/test_continents-and-oceans.html"
               }
             },
             {
@@ -764,6 +904,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/social-science/en/india-in-asia.html",
                 hi: "content/semester-1/social-science/hi/india-in-asia.html"
+              },
+              test: {
+                en: "content/semester-1/social-science/en/test_india-in-asia.html",
+                hi: "content/semester-1/social-science/hi/test_india-in-asia.html"
               }
             },
             {
@@ -776,6 +920,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/social-science/en/climate-vegetation-and-wildlife-of-india.html",
                 hi: "content/semester-1/social-science/hi/climate-vegetation-and-wildlife-of-india.html"
+              },
+              test: {
+                en: "content/semester-1/social-science/en/test_climate-vegetation-and-wildlife-of-india.html",
+                hi: "content/semester-1/social-science/hi/test_climate-vegetation-and-wildlife-of-india.html"
               }
             },
             {
@@ -788,6 +936,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/social-science/en/celestial-organization.html",
                 hi: "content/semester-1/social-science/hi/celestial-organization.html"
+              },
+              test: {
+                en: "content/semester-1/social-science/en/test_celestial-organization.html",
+                hi: "content/semester-1/social-science/hi/test_celestial-organization.html"
               }
             },
             {
@@ -800,6 +952,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/social-science/en/rural-and-urban-lifestyle.html",
                 hi: "content/semester-1/social-science/hi/rural-and-urban-lifestyle.html"
+              },
+              test: {
+                en: "content/semester-1/social-science/en/test_rural-and-urban-lifestyle.html",
+                hi: "content/semester-1/social-science/hi/test_rural-and-urban-lifestyle.html"
               }
             },
             {
@@ -812,6 +968,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/social-science/en/rural-life.html",
                 hi: "content/semester-1/social-science/hi/rural-life.html"
+              },
+              test: {
+                en: "content/semester-1/social-science/en/test_rural-life.html",
+                hi: "content/semester-1/social-science/hi/test_rural-life.html"
               }
             },
             {
@@ -824,6 +984,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/social-science/en/urban-life.html",
                 hi: "content/semester-1/social-science/hi/urban-life.html"
+              },
+              test: {
+                en: "content/semester-1/social-science/en/test_urban-life.html",
+                hi: "content/semester-1/social-science/hi/test_urban-life.html"
               }
             },
             {
@@ -836,6 +1000,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/social-science/en/district-level-administration.html",
                 hi: "content/semester-1/social-science/hi/district-level-administration.html"
+              },
+              test: {
+                en: "content/semester-1/social-science/en/test_district-level-administration.html",
+                hi: "content/semester-1/social-science/hi/test_district-level-administration.html"
               }
             },
             {
@@ -848,6 +1016,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/social-science/en/transport-and-safety.html",
                 hi: "content/semester-1/social-science/hi/transport-and-safety.html"
+              },
+              test: {
+                en: "content/semester-1/social-science/en/test_transport-and-safety.html",
+                hi: "content/semester-1/social-science/hi/test_transport-and-safety.html"
               }
             },
             {
@@ -860,6 +1032,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/social-science/en/introduction-to-economics.html",
                 hi: "content/semester-1/social-science/hi/introduction-to-economics.html"
+              },
+              test: {
+                en: "content/semester-1/social-science/en/test_introduction-to-economics.html",
+                hi: "content/semester-1/social-science/hi/test_introduction-to-economics.html"
               }
             },
             {
@@ -872,6 +1048,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/social-science/en/national-income.html",
                 hi: "content/semester-1/social-science/hi/national-income.html"
+              },
+              test: {
+                en: "content/semester-1/social-science/en/test_national-income.html",
+                hi: "content/semester-1/social-science/hi/test_national-income.html"
               }
             }
           ]
@@ -894,6 +1074,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/hindi/en/listening-and-correct-pronunciation.html",
                 hi: "content/semester-1/hindi/hi/listening-and-correct-pronunciation.html"
+              },
+              test: {
+                en: "content/semester-1/hindi/en/test_listening-and-correct-pronunciation.html",
+                hi: "content/semester-1/hindi/hi/test_listening-and-correct-pronunciation.html"
               }
             },
             {
@@ -906,6 +1090,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/hindi/en/devanagari-script.html",
                 hi: "content/semester-1/hindi/hi/devanagari-script.html"
+              },
+              test: {
+                en: "content/semester-1/hindi/en/test_devanagari-script.html",
+                hi: "content/semester-1/hindi/hi/test_devanagari-script.html"
               }
             },
             {
@@ -918,6 +1106,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/hindi/en/word-recognition.html",
                 hi: "content/semester-1/hindi/hi/word-recognition.html"
+              },
+              test: {
+                en: "content/semester-1/hindi/en/test_word-recognition.html",
+                hi: "content/semester-1/hindi/hi/test_word-recognition.html"
               }
             },
             {
@@ -930,6 +1122,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/hindi/en/punctuation-marks.html",
                 hi: "content/semester-1/hindi/hi/punctuation-marks.html"
+              },
+              test: {
+                en: "content/semester-1/hindi/en/test_punctuation-marks.html",
+                hi: "content/semester-1/hindi/hi/test_punctuation-marks.html"
               }
             },
             {
@@ -942,6 +1138,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/hindi/en/writing-teaching.html",
                 hi: "content/semester-1/hindi/hi/writing-teaching.html"
+              },
+              test: {
+                en: "content/semester-1/hindi/en/test_writing-teaching.html",
+                hi: "content/semester-1/hindi/hi/test_writing-teaching.html"
               }
             }
           ]
@@ -964,6 +1164,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/sanskrit/en/sanskrit-names-of-surroundings.html",
                 hi: "content/semester-1/sanskrit/hi/sanskrit-names-of-surroundings.html"
+              },
+              test: {
+                en: "content/semester-1/sanskrit/en/test_sanskrit-names-of-surroundings.html",
+                hi: "content/semester-1/sanskrit/hi/test_sanskrit-names-of-surroundings.html"
               }
             },
             {
@@ -976,6 +1180,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/sanskrit/en/noun-gender-and-number.html",
                 hi: "content/semester-1/sanskrit/hi/noun-gender-and-number.html"
+              },
+              test: {
+                en: "content/semester-1/sanskrit/en/test_noun-gender-and-number.html",
+                hi: "content/semester-1/sanskrit/hi/test_noun-gender-and-number.html"
               }
             },
             {
@@ -988,6 +1196,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/sanskrit/en/noun-and-pronoun-declensions.html",
                 hi: "content/semester-1/sanskrit/hi/noun-and-pronoun-declensions.html"
+              },
+              test: {
+                en: "content/semester-1/sanskrit/en/test_noun-and-pronoun-declensions.html",
+                hi: "content/semester-1/sanskrit/hi/test_noun-and-pronoun-declensions.html"
               }
             },
             {
@@ -1000,6 +1212,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/sanskrit/en/verb-forms-lat-and-lang.html",
                 hi: "content/semester-1/sanskrit/hi/verb-forms-lat-and-lang.html"
+              },
+              test: {
+                en: "content/semester-1/sanskrit/en/test_verb-forms-lat-and-lang.html",
+                hi: "content/semester-1/sanskrit/hi/test_verb-forms-lat-and-lang.html"
               }
             },
             {
@@ -1012,6 +1228,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/sanskrit/en/verb-agreement-and-person.html",
                 hi: "content/semester-1/sanskrit/hi/verb-agreement-and-person.html"
+              },
+              test: {
+                en: "content/semester-1/sanskrit/en/test_verb-agreement-and-person.html",
+                hi: "content/semester-1/sanskrit/hi/test_verb-agreement-and-person.html"
               }
             },
             {
@@ -1024,6 +1244,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/sanskrit/en/simple-translation.html",
                 hi: "content/semester-1/sanskrit/hi/simple-translation.html"
+              },
+              test: {
+                en: "content/semester-1/sanskrit/en/test_simple-translation.html",
+                hi: "content/semester-1/sanskrit/hi/test_simple-translation.html"
               }
             },
             {
@@ -1036,6 +1260,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/sanskrit/en/recitation-of-prayers-and-moral-sentences.html",
                 hi: "content/semester-1/sanskrit/hi/recitation-of-prayers-and-moral-sentences.html"
+              },
+              test: {
+                en: "content/semester-1/sanskrit/en/test_recitation-of-prayers-and-moral-sentences.html",
+                hi: "content/semester-1/sanskrit/hi/test_recitation-of-prayers-and-moral-sentences.html"
               }
             },
             {
@@ -1048,6 +1276,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/sanskrit/en/meaning-of-verses-and-moral-sentences.html",
                 hi: "content/semester-1/sanskrit/hi/meaning-of-verses-and-moral-sentences.html"
+              },
+              test: {
+                en: "content/semester-1/sanskrit/en/test_meaning-of-verses-and-moral-sentences.html",
+                hi: "content/semester-1/sanskrit/hi/test_meaning-of-verses-and-moral-sentences.html"
               }
             },
             {
@@ -1060,6 +1292,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/sanskrit/en/sanskrit-numbers-one-to-twenty.html",
                 hi: "content/semester-1/sanskrit/hi/sanskrit-numbers-one-to-twenty.html"
+              },
+              test: {
+                en: "content/semester-1/sanskrit/en/test_sanskrit-numbers-one-to-twenty.html",
+                hi: "content/semester-1/sanskrit/hi/test_sanskrit-numbers-one-to-twenty.html"
               }
             },
             {
@@ -1072,6 +1308,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/sanskrit/en/sanskrit-teaching-methods.html",
                 hi: "content/semester-1/sanskrit/hi/sanskrit-teaching-methods.html"
+              },
+              test: {
+                en: "content/semester-1/sanskrit/en/test_sanskrit-teaching-methods.html",
+                hi: "content/semester-1/sanskrit/hi/test_sanskrit-teaching-methods.html"
               }
             }
           ]
@@ -1094,6 +1334,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/computer/en/introduction-to-computers.html",
                 hi: "content/semester-1/computer/hi/introduction-to-computers.html"
+              },
+              test: {
+                en: "content/semester-1/computer/en/test_introduction-to-computers.html",
+                hi: "content/semester-1/computer/hi/test_introduction-to-computers.html"
               }
             },
             {
@@ -1106,6 +1350,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/computer/en/working-on-computers.html",
                 hi: "content/semester-1/computer/hi/working-on-computers.html"
+              },
+              test: {
+                en: "content/semester-1/computer/en/test_working-on-computers.html",
+                hi: "content/semester-1/computer/hi/test_working-on-computers.html"
               }
             },
             {
@@ -1118,6 +1366,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/computer/en/working-with-multimedia.html",
                 hi: "content/semester-1/computer/hi/working-with-multimedia.html"
+              },
+              test: {
+                en: "content/semester-1/computer/en/test_working-with-multimedia.html",
+                hi: "content/semester-1/computer/hi/test_working-with-multimedia.html"
               }
             },
             {
@@ -1130,6 +1382,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/computer/en/internet-and-networking.html",
                 hi: "content/semester-1/computer/hi/internet-and-networking.html"
+              },
+              test: {
+                en: "content/semester-1/computer/en/test_internet-and-networking.html",
+                hi: "content/semester-1/computer/hi/test_internet-and-networking.html"
               }
             },
             {
@@ -1142,6 +1398,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/computer/en/hindi-in-computing.html",
                 hi: "content/semester-1/computer/hi/hindi-in-computing.html"
+              },
+              test: {
+                en: "content/semester-1/computer/en/test_hindi-in-computing.html",
+                hi: "content/semester-1/computer/hi/test_hindi-in-computing.html"
               }
             },
             {
@@ -1154,6 +1414,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/computer/en/software-applications-for-professional-use.html",
                 hi: "content/semester-1/computer/hi/software-applications-for-professional-use.html"
+              },
+              test: {
+                en: "content/semester-1/computer/en/test_software-applications-for-professional-use.html",
+                hi: "content/semester-1/computer/hi/test_software-applications-for-professional-use.html"
               }
             },
             {
@@ -1166,6 +1430,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-1/computer/en/ms-office-package.html",
                 hi: "content/semester-1/computer/hi/ms-office-package.html"
+              },
+              test: {
+                en: "content/semester-1/computer/en/test_ms-office-package.html",
+                hi: "content/semester-1/computer/hi/test_ms-office-package.html"
               }
             }
           ]
@@ -1201,6 +1469,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/contemporary-indian-society/en/concept-of-education.html",
                 hi: "content/semester-2/contemporary-indian-society/hi/concept-of-education.html"
+              },
+              test: {
+                en: "content/semester-2/contemporary-indian-society/en/test_concept-of-education.html",
+                hi: "content/semester-2/contemporary-indian-society/hi/test_concept-of-education.html"
               }
             },
             {
@@ -1213,6 +1485,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/contemporary-indian-society/en/background-of-elementary-education.html",
                 hi: "content/semester-2/contemporary-indian-society/hi/background-of-elementary-education.html"
+              },
+              test: {
+                en: "content/semester-2/contemporary-indian-society/en/test_background-of-elementary-education.html",
+                hi: "content/semester-2/contemporary-indian-society/hi/test_background-of-elementary-education.html"
               }
             },
             {
@@ -1225,6 +1501,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/contemporary-indian-society/en/educational-thoughts.html",
                 hi: "content/semester-2/contemporary-indian-society/hi/educational-thoughts.html"
+              },
+              test: {
+                en: "content/semester-2/contemporary-indian-society/en/test_educational-thoughts.html",
+                hi: "content/semester-2/contemporary-indian-society/hi/test_educational-thoughts.html"
               }
             },
             {
@@ -1237,6 +1517,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/contemporary-indian-society/en/educational-thoughts-of-indian-thinkers.html",
                 hi: "content/semester-2/contemporary-indian-society/hi/educational-thoughts-of-indian-thinkers.html"
+              },
+              test: {
+                en: "content/semester-2/contemporary-indian-society/en/test_educational-thoughts-of-indian-thinkers.html",
+                hi: "content/semester-2/contemporary-indian-society/hi/test_educational-thoughts-of-indian-thinkers.html"
               }
             },
             {
@@ -1249,6 +1533,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/contemporary-indian-society/en/educational-thoughts-of-western-thinkers.html",
                 hi: "content/semester-2/contemporary-indian-society/hi/educational-thoughts-of-western-thinkers.html"
+              },
+              test: {
+                en: "content/semester-2/contemporary-indian-society/en/test_educational-thoughts-of-western-thinkers.html",
+                hi: "content/semester-2/contemporary-indian-society/hi/test_educational-thoughts-of-western-thinkers.html"
               }
             },
             {
@@ -1261,6 +1549,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/contemporary-indian-society/en/education-and-society.html",
                 hi: "content/semester-2/contemporary-indian-society/hi/education-and-society.html"
+              },
+              test: {
+                en: "content/semester-2/contemporary-indian-society/en/test_education-and-society.html",
+                hi: "content/semester-2/contemporary-indian-society/hi/test_education-and-society.html"
               }
             },
             {
@@ -1273,6 +1565,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/contemporary-indian-society/en/major-issues-of-emerging-society-1.html",
                 hi: "content/semester-2/contemporary-indian-society/hi/major-issues-of-emerging-society-1.html"
+              },
+              test: {
+                en: "content/semester-2/contemporary-indian-society/en/test_major-issues-of-emerging-society-1.html",
+                hi: "content/semester-2/contemporary-indian-society/hi/test_major-issues-of-emerging-society-1.html"
               }
             },
             {
@@ -1285,6 +1581,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/contemporary-indian-society/en/major-issues-of-emerging-society-2.html",
                 hi: "content/semester-2/contemporary-indian-society/hi/major-issues-of-emerging-society-2.html"
+              },
+              test: {
+                en: "content/semester-2/contemporary-indian-society/en/test_major-issues-of-emerging-society-2.html",
+                hi: "content/semester-2/contemporary-indian-society/hi/test_major-issues-of-emerging-society-2.html"
               }
             },
             {

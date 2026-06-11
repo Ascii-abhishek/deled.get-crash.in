@@ -1,132 +1,60 @@
 # TODO
 
-- [x] Set up the agent and skill documentation for this static D.El.Ed learning website. Route: code-change.
-- [x] Semester 1 / Child Development and Learning: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 1 / Principles of Teaching Learning: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 1 / Science: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 1 / Mathematics: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 1 / Social Science: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 1 / Hindi: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 1 / Sanskrit: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 1 / Computer: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 2 / Contemporary Indian Society and Primary Education: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 2 / New Efforts in Primary Education: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 2 / Science: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 2 / Mathematics: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 2 / Social Science: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 2 / Hindi: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 2 / English: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 3 / Educational Evaluation, Action Research and Innovation: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 3 / Inclusive Education: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 3 / Science: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 3 / Mathematics: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 3 / Social Science: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 3 / Hindi: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 3 / Sanskrit: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 3 / Computer: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 4 / Language and Mathematics at Primary Level: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 4 / Educational Management and Administration: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 4 / Science: completed; do not revisit unless the project owner asks for a correction or new test coverage. Route: audit-only.
-- [x] Semester 4 / Mathematics: minor subject coverage is sufficient; do not revisit unless the project owner asks for a correction. Route: audit-only.
-- [x] Semester 4 / Social Science: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 4 / Hindi: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 4 / English: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] Semester 4 / Peace Education and Sustainable Efforts: fetch the correct ordered chapter list, update the subject topic map, and create only minimal bilingual placeholder files for new mapped topics. Route: syllabus-map.
-- [x] After all `syllabus-map` tasks are done, generate chapter-by-chapter `content-chapter` todos from the updated catalog, excluding Semester 4 Science and Semester 4 Mathematics unless explicitly requested. Route: code-change.
 
 ## Content Chapter TODOs
 
 Every `content-chapter` item means full crash-course chapter content plus its attached bilingual chapter test: 10 MCQs, 5 short-answer questions, and 4 or 5 long-answer questions. Use Semester 4 Science as the reference for content depth, tables, snapshots, difference sections, classroom links, and tests.
 
-- [x] Semester 1 / Child Development and Learning / Child Development and Its Stages: complete to the current crash-course standard and add the attached bilingual chapter test. Route: content-chapter.
-- [x] Semester 1 / Child Development and Learning / Development in Different Stages: complete to the current crash-course standard and add the attached bilingual chapter test. Route: content-chapter.
-- [x] Semester 1 / Child Development and Learning / Personality and Individual Differences: complete to the current crash-course standard and add the attached bilingual chapter test. Route: content-chapter.
-- [x] Semester 1 / Child Development and Learning / Meaning and Theories of Learning: complete to the current crash-course standard and add the attached bilingual chapter test. Route: content-chapter.
-- [x] Semester 1 / Child Development and Learning / Motivation, Attention, and Interest: complete to the current crash-course standard and add the attached bilingual chapter test. Route: content-chapter.
-- [x] Semester 1 / Child Development and Learning / Memory and Forgetting: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [x] Semester 1 / Child Development and Learning / Educational Statistics: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [x] Semester 1 / Principles of Teaching Learning / Meaning and Objectives of Teaching: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [x] Semester 1 / Principles of Teaching Learning / Communication: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [x] Semester 1 / Principles of Teaching Learning / Principles of Teaching: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [x] Semester 1 / Principles of Teaching Learning / Maxims of Teaching: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [x] Semester 1 / Principles of Teaching Learning / Teaching Techniques: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [x] Semester 1 / Principles of Teaching Learning / New Methods of Teaching: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [x] Semester 1 / Principles of Teaching Learning / Microteaching and Basic Teaching Skills: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Principles of Teaching Learning / Expected Learning Levels: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Principles of Teaching Learning / Teaching Learning Materials: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Science / Living Things: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Science / Plant Kingdom: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Science / Reproduction in Plants: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Science / Physical Measurement: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Science / Motion and Force: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Science / Matter and Its States: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Science / Model Preparation: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Mathematics / Numbers and Place Value: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Mathematics / Multiplication and Division: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Mathematics / Fractions: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Mathematics / Decimal Numbers: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Mathematics / Factors and Multiples: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Mathematics / Prime, Composite, LCM, and HCF: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Mathematics / Percentage: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Mathematics / Data Representation: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Mathematics / Algebraic Expressions: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Mathematics / Basic Geometry: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Mathematics / Angle Construction: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Mathematics / Types of Angles: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Mathematics / Plane Figures: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Mathematics / Perimeter: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Social Science / Meaning, Importance, and Sources of History: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Social Science / Human Origin and Development: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Social Science / River Valley Civilizations: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Social Science / Vedic Period: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Social Science / Mahajanapada Period: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Social Science / Upanishads, Jainism, and Buddhism: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Social Science / Solar System: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Social Science / Mapping: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Social Science / Globe, Latitudes, and Longitudes: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Social Science / Heat Zones of Earth: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Social Science / Movements of Earth: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Social Science / Continents and Oceans: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Social Science / India in Asia: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Social Science / Climate, Vegetation, and Wildlife of India: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Social Science / Celestial Organization: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Social Science / Rural and Urban Lifestyle: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Social Science / Rural Life: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Social Science / Urban Life: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Social Science / District-Level Administration: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Social Science / Transport and Safety: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Social Science / Introduction to Economics: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Social Science / National Income: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Hindi / Listening and Correct Pronunciation: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Hindi / Devanagari Script: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Hindi / Word Recognition: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Hindi / Punctuation Marks: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Hindi / Writing Teaching: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Sanskrit / Sanskrit Names of Surroundings: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Sanskrit / Noun, Gender, and Number: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Sanskrit / Noun and Pronoun Declensions: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Sanskrit / Verb Forms in Lat and Lang Lakara: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Sanskrit / Verb Agreement and Person: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Sanskrit / Simple Sanskrit Translation: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Sanskrit / Recitation of Prayers and Moral Sentences: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Sanskrit / Meaning of Verses and Moral Sentences: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Sanskrit / Sanskrit Numbers One to Twenty: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Sanskrit / Sanskrit Teaching Methods: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Computer / Introduction to Computers: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Computer / Working on Computers: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Computer / Working with Multimedia: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Computer / Internet and Networking: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Computer / Hindi in Computing: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Computer / Software Applications for Professional Use: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 1 / Computer / MS Office Package: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 2 / Contemporary Indian Society and Primary Education / Concept of Education: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 2 / Contemporary Indian Society and Primary Education / Background of Elementary Education: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 2 / Contemporary Indian Society and Primary Education / Educational Thoughts: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 2 / Contemporary Indian Society and Primary Education / Educational Thoughts of Indian Thinkers: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 2 / Contemporary Indian Society and Primary Education / Educational Thoughts of Western Thinkers: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 2 / Contemporary Indian Society and Primary Education / Education and Society: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 2 / Contemporary Indian Society and Primary Education / Major Issues of Emerging Society 1: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
-- [ ] Semester 2 / Contemporary Indian Society and Primary Education / Major Issues of Emerging Society 2: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Social Science / River Valley Civilizations: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Social Science / Vedic Period: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Social Science / Mahajanapada Period: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Social Science / Upanishads, Jainism, and Buddhism: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Social Science / Solar System: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Social Science / Mapping: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Social Science / Globe, Latitudes, and Longitudes: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Social Science / Heat Zones of Earth: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Social Science / Movements of Earth: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Social Science / Continents and Oceans: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Social Science / India in Asia: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Social Science / Climate, Vegetation, and Wildlife of India: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Social Science / Celestial Organization: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Social Science / Rural and Urban Lifestyle: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Social Science / Rural Life: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Social Science / Urban Life: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Social Science / District-Level Administration: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Social Science / Transport and Safety: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Social Science / Introduction to Economics: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Social Science / National Income: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Hindi / Listening and Correct Pronunciation: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Hindi / Devanagari Script: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Hindi / Word Recognition: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Hindi / Punctuation Marks: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Hindi / Writing Teaching: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Sanskrit / Sanskrit Names of Surroundings: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Sanskrit / Noun, Gender, and Number: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Sanskrit / Noun and Pronoun Declensions: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Sanskrit / Verb Forms in Lat and Lang Lakara: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Sanskrit / Verb Agreement and Person: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Sanskrit / Simple Sanskrit Translation: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Sanskrit / Recitation of Prayers and Moral Sentences: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Sanskrit / Meaning of Verses and Moral Sentences: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Sanskrit / Sanskrit Numbers One to Twenty: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Sanskrit / Sanskrit Teaching Methods: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Computer / Introduction to Computers: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Computer / Working on Computers: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Computer / Working with Multimedia: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Computer / Internet and Networking: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Computer / Hindi in Computing: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Computer / Software Applications for Professional Use: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 1 / Computer / MS Office Package: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 2 / Contemporary Indian Society and Primary Education / Concept of Education: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 2 / Contemporary Indian Society and Primary Education / Background of Elementary Education: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 2 / Contemporary Indian Society and Primary Education / Educational Thoughts: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 2 / Contemporary Indian Society and Primary Education / Educational Thoughts of Indian Thinkers: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 2 / Contemporary Indian Society and Primary Education / Educational Thoughts of Western Thinkers: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 2 / Contemporary Indian Society and Primary Education / Education and Society: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 2 / Contemporary Indian Society and Primary Education / Major Issues of Emerging Society 1: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
+- [x] Semester 2 / Contemporary Indian Society and Primary Education / Major Issues of Emerging Society 2: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
 - [ ] Semester 2 / Contemporary Indian Society and Primary Education / Education and Value: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
 - [ ] Semester 2 / New Efforts in Primary Education / Provisions and Commitments for Elementary Education: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
 - [ ] Semester 2 / New Efforts in Primary Education / Commissions and Committees for Elementary Education: add or fully revise the bilingual chapter content for this topic. Route: content-chapter.
