@@ -152,6 +152,23 @@ window.COURSE_CATALOG = {
                 hi: "content/semester-1/child-development-and-learning/hi/test_educational-statistics.html"
               }
             }
+          ],
+          tests: [
+            {
+              id: "child-development-and-learning-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-1/child-development-and-learning/tests/en/test_child-development-and-learning_1.html",
+                hi: "content/semester-1/child-development-and-learning/tests/hi/test_child-development-and-learning_1.html"
+              }
+            }
           ]
         },
         {
@@ -336,6 +353,23 @@ window.COURSE_CATALOG = {
                 hi: "content/semester-1/teaching-learning-principles/hi/test_teaching-learning-materials.html"
               }
             }
+          ],
+          tests: [
+            {
+              id: "teaching-learning-principles-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-1/teaching-learning-principles/tests/en/test_teaching-learning-principles_1.html",
+                hi: "content/semester-1/teaching-learning-principles/tests/hi/test_teaching-learning-principles_1.html"
+              }
+            }
           ]
         },
         {
@@ -456,6 +490,23 @@ window.COURSE_CATALOG = {
               test: {
                 en: "content/semester-1/science/en/test_model-preparation.html",
                 hi: "content/semester-1/science/hi/test_model-preparation.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "science-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-1/science/tests/en/test_science_1.html",
+                hi: "content/semester-1/science/tests/hi/test_science_1.html"
               }
             }
           ]
@@ -690,6 +741,23 @@ window.COURSE_CATALOG = {
               test: {
                 en: "content/semester-1/mathematics/en/test_perimeter.html",
                 hi: "content/semester-1/mathematics/hi/test_perimeter.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "mathematics-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-1/mathematics/tests/en/test_mathematics_1.html",
+                hi: "content/semester-1/mathematics/tests/hi/test_mathematics_1.html"
               }
             }
           ]
@@ -1054,6 +1122,23 @@ window.COURSE_CATALOG = {
                 hi: "content/semester-1/social-science/hi/test_national-income.html"
               }
             }
+          ],
+          tests: [
+            {
+              id: "social-science-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-1/social-science/tests/en/test_social-science_1.html",
+                hi: "content/semester-1/social-science/tests/hi/test_social-science_1.html"
+              }
+            }
           ]
         },
         {
@@ -1142,6 +1227,23 @@ window.COURSE_CATALOG = {
               test: {
                 en: "content/semester-1/hindi/en/test_writing-teaching.html",
                 hi: "content/semester-1/hindi/hi/test_writing-teaching.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "hindi-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-1/hindi/tests/en/test_hindi_1.html",
+                hi: "content/semester-1/hindi/tests/hi/test_hindi_1.html"
               }
             }
           ]
@@ -1314,6 +1416,23 @@ window.COURSE_CATALOG = {
                 hi: "content/semester-1/sanskrit/hi/test_sanskrit-teaching-methods.html"
               }
             }
+          ],
+          tests: [
+            {
+              id: "sanskrit-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-1/sanskrit/tests/en/test_sanskrit_1.html",
+                hi: "content/semester-1/sanskrit/tests/hi/test_sanskrit_1.html"
+              }
+            }
           ]
         },
         {
@@ -1434,6 +1553,23 @@ window.COURSE_CATALOG = {
               test: {
                 en: "content/semester-1/computer/en/test_ms-office-package.html",
                 hi: "content/semester-1/computer/hi/test_ms-office-package.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "computer-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-1/computer/tests/en/test_computer_1.html",
+                hi: "content/semester-1/computer/tests/hi/test_computer_1.html"
               }
             }
           ]
@@ -1597,6 +1733,27 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/contemporary-indian-society/en/education-and-value.html",
                 hi: "content/semester-2/contemporary-indian-society/hi/education-and-value.html"
+              },
+              test: {
+                en: "content/semester-2/contemporary-indian-society/en/test_education-and-value.html",
+                hi: "content/semester-2/contemporary-indian-society/hi/test_education-and-value.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "contemporary-indian-society-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-2/contemporary-indian-society/tests/en/test_contemporary-indian-society_1.html",
+                hi: "content/semester-2/contemporary-indian-society/tests/hi/test_contemporary-indian-society_1.html"
               }
             }
           ]
@@ -1625,6 +1782,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/new-efforts-primary-education/en/provisions-and-commitments-for-elementary-education.html",
                 hi: "content/semester-2/new-efforts-primary-education/hi/provisions-and-commitments-for-elementary-education.html"
+              },
+              test: {
+                en: "content/semester-2/new-efforts-primary-education/en/test_provisions-and-commitments-for-elementary-education.html",
+                hi: "content/semester-2/new-efforts-primary-education/hi/test_provisions-and-commitments-for-elementary-education.html"
               }
             },
             {
@@ -1640,6 +1801,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/new-efforts-primary-education/en/commissions-and-committees-for-elementary-education.html",
                 hi: "content/semester-2/new-efforts-primary-education/hi/commissions-and-committees-for-elementary-education.html"
+              },
+              test: {
+                en: "content/semester-2/new-efforts-primary-education/en/test_commissions-and-committees-for-elementary-education.html",
+                hi: "content/semester-2/new-efforts-primary-education/hi/test_commissions-and-committees-for-elementary-education.html"
               }
             },
             {
@@ -1655,6 +1820,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/new-efforts-primary-education/en/post-independence-commissions-and-committees.html",
                 hi: "content/semester-2/new-efforts-primary-education/hi/post-independence-commissions-and-committees.html"
+              },
+              test: {
+                en: "content/semester-2/new-efforts-primary-education/en/test_post-independence-commissions-and-committees.html",
+                hi: "content/semester-2/new-efforts-primary-education/hi/test_post-independence-commissions-and-committees.html"
               }
             },
             {
@@ -1670,6 +1839,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/new-efforts-primary-education/en/curriculum-and-teacher-education.html",
                 hi: "content/semester-2/new-efforts-primary-education/hi/curriculum-and-teacher-education.html"
+              },
+              test: {
+                en: "content/semester-2/new-efforts-primary-education/en/test_curriculum-and-teacher-education.html",
+                hi: "content/semester-2/new-efforts-primary-education/hi/test_curriculum-and-teacher-education.html"
               }
             },
             {
@@ -1685,6 +1858,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/new-efforts-primary-education/en/programmes-for-elementary-education-1.html",
                 hi: "content/semester-2/new-efforts-primary-education/hi/programmes-for-elementary-education-1.html"
+              },
+              test: {
+                en: "content/semester-2/new-efforts-primary-education/en/test_programmes-for-elementary-education-1.html",
+                hi: "content/semester-2/new-efforts-primary-education/hi/test_programmes-for-elementary-education-1.html"
               }
             },
             {
@@ -1700,6 +1877,27 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/new-efforts-primary-education/en/programmes-for-elementary-education-2.html",
                 hi: "content/semester-2/new-efforts-primary-education/hi/programmes-for-elementary-education-2.html"
+              },
+              test: {
+                en: "content/semester-2/new-efforts-primary-education/en/test_programmes-for-elementary-education-2.html",
+                hi: "content/semester-2/new-efforts-primary-education/hi/test_programmes-for-elementary-education-2.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "new-efforts-primary-education-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-2/new-efforts-primary-education/tests/en/test_new-efforts-primary-education_1.html",
+                hi: "content/semester-2/new-efforts-primary-education/tests/hi/test_new-efforts-primary-education_1.html"
               }
             }
           ]
@@ -1722,6 +1920,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/science/en/earth-and-space.html",
                 hi: "content/semester-2/science/hi/earth-and-space.html"
+              },
+              test: {
+                en: "content/semester-2/science/en/test_earth-and-space.html",
+                hi: "content/semester-2/science/hi/test_earth-and-space.html"
               }
             },
             {
@@ -1734,6 +1936,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/science/en/soil-and-crops.html",
                 hi: "content/semester-2/science/hi/soil-and-crops.html"
+              },
+              test: {
+                en: "content/semester-2/science/en/test_soil-and-crops.html",
+                hi: "content/semester-2/science/hi/test_soil-and-crops.html"
               }
             },
             {
@@ -1746,6 +1952,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/science/en/work-and-energy.html",
                 hi: "content/semester-2/science/hi/work-and-energy.html"
+              },
+              test: {
+                en: "content/semester-2/science/en/test_work-and-energy.html",
+                hi: "content/semester-2/science/hi/test_work-and-energy.html"
               }
             },
             {
@@ -1758,6 +1968,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/science/en/simple-machines.html",
                 hi: "content/semester-2/science/hi/simple-machines.html"
+              },
+              test: {
+                en: "content/semester-2/science/en/test_simple-machines.html",
+                hi: "content/semester-2/science/hi/test_simple-machines.html"
               }
             },
             {
@@ -1770,6 +1984,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/science/en/structure-of-organisms.html",
                 hi: "content/semester-2/science/hi/structure-of-organisms.html"
+              },
+              test: {
+                en: "content/semester-2/science/en/test_structure-of-organisms.html",
+                hi: "content/semester-2/science/hi/test_structure-of-organisms.html"
               }
             },
             {
@@ -1782,6 +2000,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/science/en/activities-of-life.html",
                 hi: "content/semester-2/science/hi/activities-of-life.html"
+              },
+              test: {
+                en: "content/semester-2/science/en/test_activities-of-life.html",
+                hi: "content/semester-2/science/hi/test_activities-of-life.html"
               }
             },
             {
@@ -1794,6 +2016,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/science/en/organs-and-functions-of-human-body.html",
                 hi: "content/semester-2/science/hi/organs-and-functions-of-human-body.html"
+              },
+              test: {
+                en: "content/semester-2/science/en/test_organs-and-functions-of-human-body.html",
+                hi: "content/semester-2/science/hi/test_organs-and-functions-of-human-body.html"
               }
             },
             {
@@ -1806,6 +2032,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/science/en/food-health-and-disease.html",
                 hi: "content/semester-2/science/hi/food-health-and-disease.html"
+              },
+              test: {
+                en: "content/semester-2/science/en/test_food-health-and-disease.html",
+                hi: "content/semester-2/science/hi/test_food-health-and-disease.html"
               }
             },
             {
@@ -1818,6 +2048,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/science/en/classification-of-elements.html",
                 hi: "content/semester-2/science/hi/classification-of-elements.html"
+              },
+              test: {
+                en: "content/semester-2/science/en/test_classification-of-elements.html",
+                hi: "content/semester-2/science/hi/test_classification-of-elements.html"
               }
             },
             {
@@ -1830,6 +2064,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/science/en/changes-occurring-in-surrounding.html",
                 hi: "content/semester-2/science/hi/changes-occurring-in-surrounding.html"
+              },
+              test: {
+                en: "content/semester-2/science/en/test_changes-occurring-in-surrounding.html",
+                hi: "content/semester-2/science/hi/test_changes-occurring-in-surrounding.html"
               }
             },
             {
@@ -1842,6 +2080,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/science/en/acid-base-and-salt.html",
                 hi: "content/semester-2/science/hi/acid-base-and-salt.html"
+              },
+              test: {
+                en: "content/semester-2/science/en/test_acid-base-and-salt.html",
+                hi: "content/semester-2/science/hi/test_acid-base-and-salt.html"
               }
             },
             {
@@ -1854,6 +2096,27 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/science/en/environmental-pollution.html",
                 hi: "content/semester-2/science/hi/environmental-pollution.html"
+              },
+              test: {
+                en: "content/semester-2/science/en/test_environmental-pollution.html",
+                hi: "content/semester-2/science/hi/test_environmental-pollution.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "science-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-2/science/tests/en/test_science_1.html",
+                hi: "content/semester-2/science/tests/hi/test_science_1.html"
               }
             }
           ]
@@ -1879,6 +2142,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/mathematics/en/lcm-and-hcf-of-three-digit-numbers.html",
                 hi: "content/semester-2/mathematics/hi/lcm-and-hcf-of-three-digit-numbers.html"
+              },
+              test: {
+                en: "content/semester-2/mathematics/en/test_lcm-and-hcf-of-three-digit-numbers.html",
+                hi: "content/semester-2/mathematics/hi/test_lcm-and-hcf-of-three-digit-numbers.html"
               }
             },
             {
@@ -1894,6 +2161,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/mathematics/en/operations-of-expressions-and-simplification-of-brackets.html",
                 hi: "content/semester-2/mathematics/hi/operations-of-expressions-and-simplification-of-brackets.html"
+              },
+              test: {
+                en: "content/semester-2/mathematics/en/test_operations-of-expressions-and-simplification-of-brackets.html",
+                hi: "content/semester-2/mathematics/hi/test_operations-of-expressions-and-simplification-of-brackets.html"
               }
             },
             {
@@ -1906,6 +2177,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/mathematics/en/concept-of-numbers.html",
                 hi: "content/semester-2/mathematics/hi/concept-of-numbers.html"
+              },
+              test: {
+                en: "content/semester-2/mathematics/en/test_concept-of-numbers.html",
+                hi: "content/semester-2/mathematics/hi/test_concept-of-numbers.html"
               }
             },
             {
@@ -1921,6 +2196,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/mathematics/en/properties-of-operation-on-whole-numbers.html",
                 hi: "content/semester-2/mathematics/hi/properties-of-operation-on-whole-numbers.html"
+              },
+              test: {
+                en: "content/semester-2/mathematics/en/test_properties-of-operation-on-whole-numbers.html",
+                hi: "content/semester-2/mathematics/hi/test_properties-of-operation-on-whole-numbers.html"
               }
             },
             {
@@ -1936,6 +2215,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/mathematics/en/inverse-and-identity-of-integers-and-rational-numbers.html",
                 hi: "content/semester-2/mathematics/hi/inverse-and-identity-of-integers-and-rational-numbers.html"
+              },
+              test: {
+                en: "content/semester-2/mathematics/en/test_inverse-and-identity-of-integers-and-rational-numbers.html",
+                hi: "content/semester-2/mathematics/hi/test_inverse-and-identity-of-integers-and-rational-numbers.html"
               }
             },
             {
@@ -1948,6 +2231,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/mathematics/en/equation-and-identity.html",
                 hi: "content/semester-2/mathematics/hi/equation-and-identity.html"
+              },
+              test: {
+                en: "content/semester-2/mathematics/en/test_equation-and-identity.html",
+                hi: "content/semester-2/mathematics/hi/test_equation-and-identity.html"
               }
             },
             {
@@ -1960,6 +2247,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/mathematics/en/linear-equation-in-one-variable.html",
                 hi: "content/semester-2/mathematics/hi/linear-equation-in-one-variable.html"
+              },
+              test: {
+                en: "content/semester-2/mathematics/en/test_linear-equation-in-one-variable.html",
+                hi: "content/semester-2/mathematics/hi/test_linear-equation-in-one-variable.html"
               }
             },
             {
@@ -1975,6 +2266,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/mathematics/en/multiplication-of-expression-and-identities.html",
                 hi: "content/semester-2/mathematics/hi/multiplication-of-expression-and-identities.html"
+              },
+              test: {
+                en: "content/semester-2/mathematics/en/test_multiplication-of-expression-and-identities.html",
+                hi: "content/semester-2/mathematics/hi/test_multiplication-of-expression-and-identities.html"
               }
             },
             {
@@ -1990,6 +2285,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/mathematics/en/area-volume-and-capacity.html",
                 hi: "content/semester-2/mathematics/hi/area-volume-and-capacity.html"
+              },
+              test: {
+                en: "content/semester-2/mathematics/en/test_area-volume-and-capacity.html",
+                hi: "content/semester-2/mathematics/hi/test_area-volume-and-capacity.html"
               }
             },
             {
@@ -2005,6 +2304,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/mathematics/en/area-of-triangle-rectangle-and-square.html",
                 hi: "content/semester-2/mathematics/hi/area-of-triangle-rectangle-and-square.html"
+              },
+              test: {
+                en: "content/semester-2/mathematics/en/test_area-of-triangle-rectangle-and-square.html",
+                hi: "content/semester-2/mathematics/hi/test_area-of-triangle-rectangle-and-square.html"
               }
             },
             {
@@ -2020,6 +2323,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/mathematics/en/ungrouped-data-and-bar-graph.html",
                 hi: "content/semester-2/mathematics/hi/ungrouped-data-and-bar-graph.html"
+              },
+              test: {
+                en: "content/semester-2/mathematics/en/test_ungrouped-data-and-bar-graph.html",
+                hi: "content/semester-2/mathematics/hi/test_ungrouped-data-and-bar-graph.html"
               }
             },
             {
@@ -2032,6 +2339,27 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/mathematics/en/congruency-and-similarity.html",
                 hi: "content/semester-2/mathematics/hi/congruency-and-similarity.html"
+              },
+              test: {
+                en: "content/semester-2/mathematics/en/test_congruency-and-similarity.html",
+                hi: "content/semester-2/mathematics/hi/test_congruency-and-similarity.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "mathematics-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-2/mathematics/tests/en/test_mathematics_1.html",
+                hi: "content/semester-2/mathematics/tests/hi/test_mathematics_1.html"
               }
             }
           ]
@@ -2057,6 +2385,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/social-science/en/foundation-of-first-empire-in-india.html",
                 hi: "content/semester-2/social-science/hi/foundation-of-first-empire-in-india.html"
+              },
+              test: {
+                en: "content/semester-2/social-science/en/test_foundation-of-first-empire-in-india.html",
+                hi: "content/semester-2/social-science/hi/test_foundation-of-first-empire-in-india.html"
               }
             },
             {
@@ -2069,6 +2401,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/social-science/en/india-in-feudalism-period.html",
                 hi: "content/semester-2/social-science/hi/india-in-feudalism-period.html"
+              },
+              test: {
+                en: "content/semester-2/social-science/en/test_india-in-feudalism-period.html",
+                hi: "content/semester-2/social-science/hi/test_india-in-feudalism-period.html"
               }
             },
             {
@@ -2081,6 +2417,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/social-science/en/islam-and-sultanate-period-in-india.html",
                 hi: "content/semester-2/social-science/hi/islam-and-sultanate-period-in-india.html"
+              },
+              test: {
+                en: "content/semester-2/social-science/en/test_islam-and-sultanate-period-in-india.html",
+                hi: "content/semester-2/social-science/hi/test_islam-and-sultanate-period-in-india.html"
               }
             },
             {
@@ -2093,6 +2433,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/social-science/en/natural-powers-and-lithosphere.html",
                 hi: "content/semester-2/social-science/hi/natural-powers-and-lithosphere.html"
+              },
+              test: {
+                en: "content/semester-2/social-science/en/test_natural-powers-and-lithosphere.html",
+                hi: "content/semester-2/social-science/hi/test_natural-powers-and-lithosphere.html"
               }
             },
             {
@@ -2105,6 +2449,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/social-science/en/different-land-factors.html",
                 hi: "content/semester-2/social-science/hi/different-land-factors.html"
+              },
+              test: {
+                en: "content/semester-2/social-science/en/test_different-land-factors.html",
+                hi: "content/semester-2/social-science/hi/test_different-land-factors.html"
               }
             },
             {
@@ -2117,6 +2465,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/social-science/en/atmosphere-and-hydrosphere.html",
                 hi: "content/semester-2/social-science/hi/atmosphere-and-hydrosphere.html"
+              },
+              test: {
+                en: "content/semester-2/social-science/en/test_atmosphere-and-hydrosphere.html",
+                hi: "content/semester-2/social-science/hi/test_atmosphere-and-hydrosphere.html"
               }
             },
             {
@@ -2129,6 +2481,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/social-science/en/indian-constitution.html",
                 hi: "content/semester-2/social-science/hi/indian-constitution.html"
+              },
+              test: {
+                en: "content/semester-2/social-science/en/test_indian-constitution.html",
+                hi: "content/semester-2/social-science/hi/test_indian-constitution.html"
               }
             },
             {
@@ -2144,6 +2500,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/social-science/en/agriculture-in-indian-economy.html",
                 hi: "content/semester-2/social-science/hi/agriculture-in-indian-economy.html"
+              },
+              test: {
+                en: "content/semester-2/social-science/en/test_agriculture-in-indian-economy.html",
+                hi: "content/semester-2/social-science/hi/test_agriculture-in-indian-economy.html"
               }
             },
             {
@@ -2159,6 +2519,27 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/social-science/en/indian-finance-system-and-industrialisation.html",
                 hi: "content/semester-2/social-science/hi/indian-finance-system-and-industrialisation.html"
+              },
+              test: {
+                en: "content/semester-2/social-science/en/test_indian-finance-system-and-industrialisation.html",
+                hi: "content/semester-2/social-science/hi/test_indian-finance-system-and-industrialisation.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "social-science-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-2/social-science/tests/en/test_social-science_1.html",
+                hi: "content/semester-2/social-science/tests/hi/test_social-science_1.html"
               }
             }
           ]
@@ -2184,6 +2565,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/hindi/en/listening-to-stories-folk-tales-and-incidents.html",
                 hi: "content/semester-2/hindi/hi/listening-to-stories-folk-tales-and-incidents.html"
+              },
+              test: {
+                en: "content/semester-2/hindi/en/test_listening-to-stories-folk-tales-and-incidents.html",
+                hi: "content/semester-2/hindi/hi/test_listening-to-stories-folk-tales-and-incidents.html"
               }
             },
             {
@@ -2199,6 +2584,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/hindi/en/correct-pronunciation-of-prose-and-poetry.html",
                 hi: "content/semester-2/hindi/hi/correct-pronunciation-of-prose-and-poetry.html"
+              },
+              test: {
+                en: "content/semester-2/hindi/en/test_correct-pronunciation-of-prose-and-poetry.html",
+                hi: "content/semester-2/hindi/hi/test_correct-pronunciation-of-prose-and-poetry.html"
               }
             },
             {
@@ -2214,6 +2603,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/hindi/en/independent-expression-and-grammar-knowledge.html",
                 hi: "content/semester-2/hindi/hi/independent-expression-and-grammar-knowledge.html"
+              },
+              test: {
+                en: "content/semester-2/hindi/en/test_independent-expression-and-grammar-knowledge.html",
+                hi: "content/semester-2/hindi/hi/test_independent-expression-and-grammar-knowledge.html"
               }
             },
             {
@@ -2226,6 +2619,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/hindi/en/knowledge-of-hindi-grammar.html",
                 hi: "content/semester-2/hindi/hi/knowledge-of-hindi-grammar.html"
+              },
+              test: {
+                en: "content/semester-2/hindi/en/test_knowledge-of-hindi-grammar.html",
+                hi: "content/semester-2/hindi/hi/test_knowledge-of-hindi-grammar.html"
               }
             },
             {
@@ -2238,6 +2635,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/hindi/en/parts-of-speech.html",
                 hi: "content/semester-2/hindi/hi/parts-of-speech.html"
+              },
+              test: {
+                en: "content/semester-2/hindi/en/test_parts-of-speech.html",
+                hi: "content/semester-2/hindi/hi/test_parts-of-speech.html"
               }
             },
             {
@@ -2250,6 +2651,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/hindi/en/reading-and-sentence-teaching.html",
                 hi: "content/semester-2/hindi/hi/reading-and-sentence-teaching.html"
+              },
+              test: {
+                en: "content/semester-2/hindi/en/test_reading-and-sentence-teaching.html",
+                hi: "content/semester-2/hindi/hi/test_reading-and-sentence-teaching.html"
               }
             },
             {
@@ -2262,6 +2667,27 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/hindi/en/original-writing-on-familiar-topics.html",
                 hi: "content/semester-2/hindi/hi/original-writing-on-familiar-topics.html"
+              },
+              test: {
+                en: "content/semester-2/hindi/en/test_original-writing-on-familiar-topics.html",
+                hi: "content/semester-2/hindi/hi/test_original-writing-on-familiar-topics.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "hindi-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-2/hindi/tests/en/test_hindi_1.html",
+                hi: "content/semester-2/hindi/tests/hi/test_hindi_1.html"
               }
             }
           ]
@@ -2284,6 +2710,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/english/en/theoretical-aspects.html",
                 hi: "content/semester-2/english/hi/theoretical-aspects.html"
+              },
+              test: {
+                en: "content/semester-2/english/en/test_theoretical-aspects.html",
+                hi: "content/semester-2/english/hi/test_theoretical-aspects.html"
               }
             },
             {
@@ -2296,6 +2726,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/english/en/classroom-teaching-content.html",
                 hi: "content/semester-2/english/hi/classroom-teaching-content.html"
+              },
+              test: {
+                en: "content/semester-2/english/en/test_classroom-teaching-content.html",
+                hi: "content/semester-2/english/hi/test_classroom-teaching-content.html"
               }
             },
             {
@@ -2308,6 +2742,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/english/en/teaching-of-poetry.html",
                 hi: "content/semester-2/english/hi/teaching-of-poetry.html"
+              },
+              test: {
+                en: "content/semester-2/english/en/test_teaching-of-poetry.html",
+                hi: "content/semester-2/english/hi/test_teaching-of-poetry.html"
               }
             },
             {
@@ -2320,6 +2758,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/english/en/teaching-of-writing-skills.html",
                 hi: "content/semester-2/english/hi/teaching-of-writing-skills.html"
+              },
+              test: {
+                en: "content/semester-2/english/en/test_teaching-of-writing-skills.html",
+                hi: "content/semester-2/english/hi/test_teaching-of-writing-skills.html"
               }
             },
             {
@@ -2332,6 +2774,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/english/en/grammar-1.html",
                 hi: "content/semester-2/english/hi/grammar-1.html"
+              },
+              test: {
+                en: "content/semester-2/english/en/test_grammar-1.html",
+                hi: "content/semester-2/english/hi/test_grammar-1.html"
               }
             },
             {
@@ -2347,6 +2793,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/english/en/conversational-classroom-instructions.html",
                 hi: "content/semester-2/english/hi/conversational-classroom-instructions.html"
+              },
+              test: {
+                en: "content/semester-2/english/en/test_conversational-classroom-instructions.html",
+                hi: "content/semester-2/english/hi/test_conversational-classroom-instructions.html"
               }
             },
             {
@@ -2359,6 +2809,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/english/en/pronunciation.html",
                 hi: "content/semester-2/english/hi/pronunciation.html"
+              },
+              test: {
+                en: "content/semester-2/english/en/test_pronunciation.html",
+                hi: "content/semester-2/english/hi/test_pronunciation.html"
               }
             },
             {
@@ -2371,6 +2825,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/english/en/content-specifications.html",
                 hi: "content/semester-2/english/hi/content-specifications.html"
+              },
+              test: {
+                en: "content/semester-2/english/en/test_content-specifications.html",
+                hi: "content/semester-2/english/hi/test_content-specifications.html"
               }
             },
             {
@@ -2383,6 +2841,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/english/en/grammar-2.html",
                 hi: "content/semester-2/english/hi/grammar-2.html"
+              },
+              test: {
+                en: "content/semester-2/english/en/test_grammar-2.html",
+                hi: "content/semester-2/english/hi/test_grammar-2.html"
               }
             },
             {
@@ -2395,6 +2857,27 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-2/english/en/pronunciation-and-lesson-planning.html",
                 hi: "content/semester-2/english/hi/pronunciation-and-lesson-planning.html"
+              },
+              test: {
+                en: "content/semester-2/english/en/test_pronunciation-and-lesson-planning.html",
+                hi: "content/semester-2/english/hi/test_pronunciation-and-lesson-planning.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "english-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-2/english/tests/en/test_english_1.html",
+                hi: "content/semester-2/english/tests/hi/test_english_1.html"
               }
             }
           ]
@@ -2430,6 +2913,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/educational-evaluation-action-research/en/measurement-and-evaluation.html",
                 hi: "content/semester-3/educational-evaluation-action-research/hi/measurement-and-evaluation.html"
+              },
+              test: {
+                en: "content/semester-3/educational-evaluation-action-research/en/test_measurement-and-evaluation.html",
+                hi: "content/semester-3/educational-evaluation-action-research/hi/test_measurement-and-evaluation.html"
               }
             },
             {
@@ -2445,6 +2932,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/educational-evaluation-action-research/en/continuous-and-comprehensive-evaluation.html",
                 hi: "content/semester-3/educational-evaluation-action-research/hi/continuous-and-comprehensive-evaluation.html"
+              },
+              test: {
+                en: "content/semester-3/educational-evaluation-action-research/en/test_continuous-and-comprehensive-evaluation.html",
+                hi: "content/semester-3/educational-evaluation-action-research/hi/test_continuous-and-comprehensive-evaluation.html"
               }
             },
             {
@@ -2457,6 +2948,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/educational-evaluation-action-research/en/various-types-of-evaluation.html",
                 hi: "content/semester-3/educational-evaluation-action-research/hi/various-types-of-evaluation.html"
+              },
+              test: {
+                en: "content/semester-3/educational-evaluation-action-research/en/test_various-types-of-evaluation.html",
+                hi: "content/semester-3/educational-evaluation-action-research/hi/test_various-types-of-evaluation.html"
               }
             },
             {
@@ -2472,6 +2967,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/educational-evaluation-action-research/en/good-examination-and-characteristics.html",
                 hi: "content/semester-3/educational-evaluation-action-research/hi/good-examination-and-characteristics.html"
+              },
+              test: {
+                en: "content/semester-3/educational-evaluation-action-research/en/test_good-examination-and-characteristics.html",
+                hi: "content/semester-3/educational-evaluation-action-research/hi/test_good-examination-and-characteristics.html"
               }
             },
             {
@@ -2484,6 +2983,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/educational-evaluation-action-research/en/research-and-action-research.html",
                 hi: "content/semester-3/educational-evaluation-action-research/hi/research-and-action-research.html"
+              },
+              test: {
+                en: "content/semester-3/educational-evaluation-action-research/en/test_research-and-action-research.html",
+                hi: "content/semester-3/educational-evaluation-action-research/hi/test_research-and-action-research.html"
               }
             },
             {
@@ -2496,6 +2999,27 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/educational-evaluation-action-research/en/educational-innovation.html",
                 hi: "content/semester-3/educational-evaluation-action-research/hi/educational-innovation.html"
+              },
+              test: {
+                en: "content/semester-3/educational-evaluation-action-research/en/test_educational-innovation.html",
+                hi: "content/semester-3/educational-evaluation-action-research/hi/test_educational-innovation.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "educational-evaluation-action-research-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-3/educational-evaluation-action-research/tests/en/test_educational-evaluation-action-research_1.html",
+                hi: "content/semester-3/educational-evaluation-action-research/tests/hi/test_educational-evaluation-action-research_1.html"
               }
             }
           ]
@@ -2518,6 +3042,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/inclusive-education/en/children-with-special-needs.html",
                 hi: "content/semester-3/inclusive-education/hi/children-with-special-needs.html"
+              },
+              test: {
+                en: "content/semester-3/inclusive-education/en/test_children-with-special-needs.html",
+                hi: "content/semester-3/inclusive-education/hi/test_children-with-special-needs.html"
               }
             },
             {
@@ -2533,6 +3061,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/inclusive-education/en/teaching-learning-material-and-methods.html",
                 hi: "content/semester-3/inclusive-education/hi/teaching-learning-material-and-methods.html"
+              },
+              test: {
+                en: "content/semester-3/inclusive-education/en/test_teaching-learning-material-and-methods.html",
+                hi: "content/semester-3/inclusive-education/hi/test_teaching-learning-material-and-methods.html"
               }
             },
             {
@@ -2545,6 +3077,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/inclusive-education/en/guidance-and-counselling.html",
                 hi: "content/semester-3/inclusive-education/hi/guidance-and-counselling.html"
+              },
+              test: {
+                en: "content/semester-3/inclusive-education/en/test_guidance-and-counselling.html",
+                hi: "content/semester-3/inclusive-education/hi/test_guidance-and-counselling.html"
               }
             },
             {
@@ -2560,6 +3096,27 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/inclusive-education/en/counselling-institute-and-department.html",
                 hi: "content/semester-3/inclusive-education/hi/counselling-institute-and-department.html"
+              },
+              test: {
+                en: "content/semester-3/inclusive-education/en/test_counselling-institute-and-department.html",
+                hi: "content/semester-3/inclusive-education/hi/test_counselling-institute-and-department.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "inclusive-education-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-3/inclusive-education/tests/en/test_inclusive-education_1.html",
+                hi: "content/semester-3/inclusive-education/tests/hi/test_inclusive-education_1.html"
               }
             }
           ]
@@ -2585,6 +3142,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/science/en/science-and-technology-in-daily-life.html",
                 hi: "content/semester-3/science/hi/science-and-technology-in-daily-life.html"
+              },
+              test: {
+                en: "content/semester-3/science/en/test_science-and-technology-in-daily-life.html",
+                hi: "content/semester-3/science/hi/test_science-and-technology-in-daily-life.html"
               }
             },
             {
@@ -2597,6 +3158,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/science/en/pressure-and-scientific-instruments.html",
                 hi: "content/semester-3/science/hi/pressure-and-scientific-instruments.html"
+              },
+              test: {
+                en: "content/semester-3/science/en/test_pressure-and-scientific-instruments.html",
+                hi: "content/semester-3/science/hi/test_pressure-and-scientific-instruments.html"
               }
             },
             {
@@ -2612,6 +3177,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/science/en/organs-of-living-organisms.html",
                 hi: "content/semester-3/science/hi/organs-of-living-organisms.html"
+              },
+              test: {
+                en: "content/semester-3/science/en/test_organs-of-living-organisms.html",
+                hi: "content/semester-3/science/hi/test_organs-of-living-organisms.html"
               }
             },
             {
@@ -2624,6 +3193,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/science/en/world-of-microorganisms.html",
                 hi: "content/semester-3/science/hi/world-of-microorganisms.html"
+              },
+              test: {
+                en: "content/semester-3/science/en/test_world-of-microorganisms.html",
+                hi: "content/semester-3/science/hi/test_world-of-microorganisms.html"
               }
             },
             {
@@ -2639,6 +3212,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/science/en/natural-resources-and-universe-organism.html",
                 hi: "content/semester-3/science/hi/natural-resources-and-universe-organism.html"
+              },
+              test: {
+                en: "content/semester-3/science/en/test_natural-resources-and-universe-organism.html",
+                hi: "content/semester-3/science/hi/test_natural-resources-and-universe-organism.html"
               }
             },
             {
@@ -2651,6 +3228,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/science/en/carbon-and-their-compound.html",
                 hi: "content/semester-3/science/hi/carbon-and-their-compound.html"
+              },
+              test: {
+                en: "content/semester-3/science/en/test_carbon-and-their-compound.html",
+                hi: "content/semester-3/science/hi/test_carbon-and-their-compound.html"
               }
             },
             {
@@ -2663,6 +3244,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/science/en/non-communicable-diseases.html",
                 hi: "content/semester-3/science/hi/non-communicable-diseases.html"
+              },
+              test: {
+                en: "content/semester-3/science/en/test_non-communicable-diseases.html",
+                hi: "content/semester-3/science/hi/test_non-communicable-diseases.html"
               }
             },
             {
@@ -2678,6 +3263,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/science/en/environment-and-environmental-imbalance.html",
                 hi: "content/semester-3/science/hi/environment-and-environmental-imbalance.html"
+              },
+              test: {
+                en: "content/semester-3/science/en/test_environment-and-environmental-imbalance.html",
+                hi: "content/semester-3/science/hi/test_environment-and-environmental-imbalance.html"
               }
             },
             {
@@ -2690,6 +3279,27 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/science/en/heat-light-and-sound.html",
                 hi: "content/semester-3/science/hi/heat-light-and-sound.html"
+              },
+              test: {
+                en: "content/semester-3/science/en/test_heat-light-and-sound.html",
+                hi: "content/semester-3/science/hi/test_heat-light-and-sound.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "science-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-3/science/tests/en/test_science_1.html",
+                hi: "content/semester-3/science/tests/hi/test_science_1.html"
               }
             }
           ]
@@ -2712,6 +3322,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/mathematics/en/ratio-and-proportion.html",
                 hi: "content/semester-3/mathematics/hi/ratio-and-proportion.html"
+              },
+              test: {
+                en: "content/semester-3/mathematics/en/test_ratio-and-proportion.html",
+                hi: "content/semester-3/mathematics/hi/test_ratio-and-proportion.html"
               }
             },
             {
@@ -2724,6 +3338,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/mathematics/en/indices.html",
                 hi: "content/semester-3/mathematics/hi/indices.html"
+              },
+              test: {
+                en: "content/semester-3/mathematics/en/test_indices.html",
+                hi: "content/semester-3/mathematics/hi/test_indices.html"
               }
             },
             {
@@ -2736,6 +3354,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/mathematics/en/simple-and-compound-interest.html",
                 hi: "content/semester-3/mathematics/hi/simple-and-compound-interest.html"
+              },
+              test: {
+                en: "content/semester-3/mathematics/en/test_simple-and-compound-interest.html",
+                hi: "content/semester-3/mathematics/hi/test_simple-and-compound-interest.html"
               }
             },
             {
@@ -2748,6 +3370,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/mathematics/en/knowledge-of-banking.html",
                 hi: "content/semester-3/mathematics/hi/knowledge-of-banking.html"
+              },
+              test: {
+                en: "content/semester-3/mathematics/en/test_knowledge-of-banking.html",
+                hi: "content/semester-3/mathematics/hi/test_knowledge-of-banking.html"
               }
             },
             {
@@ -2760,6 +3386,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/mathematics/en/logarithm.html",
                 hi: "content/semester-3/mathematics/hi/logarithm.html"
+              },
+              test: {
+                en: "content/semester-3/mathematics/en/test_logarithm.html",
+                hi: "content/semester-3/mathematics/hi/test_logarithm.html"
               }
             },
             {
@@ -2772,6 +3402,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/mathematics/en/shares-and-dividend.html",
                 hi: "content/semester-3/mathematics/hi/shares-and-dividend.html"
+              },
+              test: {
+                en: "content/semester-3/mathematics/en/test_shares-and-dividend.html",
+                hi: "content/semester-3/mathematics/hi/test_shares-and-dividend.html"
               }
             },
             {
@@ -2784,6 +3418,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/mathematics/en/methods-and-types-of-set.html",
                 hi: "content/semester-3/mathematics/hi/methods-and-types-of-set.html"
+              },
+              test: {
+                en: "content/semester-3/mathematics/en/test_methods-and-types-of-set.html",
+                hi: "content/semester-3/mathematics/hi/test_methods-and-types-of-set.html"
               }
             },
             {
@@ -2796,6 +3434,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/mathematics/en/factorisation-and-division-of-algebraic-expressions.html",
                 hi: "content/semester-3/mathematics/hi/factorisation-and-division-of-algebraic-expressions.html"
+              },
+              test: {
+                en: "content/semester-3/mathematics/en/test_factorisation-and-division-of-algebraic-expressions.html",
+                hi: "content/semester-3/mathematics/hi/test_factorisation-and-division-of-algebraic-expressions.html"
               }
             },
             {
@@ -2808,6 +3450,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/mathematics/en/mean.html",
                 hi: "content/semester-3/mathematics/hi/mean.html"
+              },
+              test: {
+                en: "content/semester-3/mathematics/en/test_mean.html",
+                hi: "content/semester-3/mathematics/hi/test_mean.html"
               }
             },
             {
@@ -2820,6 +3466,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/mathematics/en/volume-and-capacity.html",
                 hi: "content/semester-3/mathematics/hi/volume-and-capacity.html"
+              },
+              test: {
+                en: "content/semester-3/mathematics/en/test_volume-and-capacity.html",
+                hi: "content/semester-3/mathematics/hi/test_volume-and-capacity.html"
               }
             },
             {
@@ -2832,6 +3482,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/mathematics/en/segment-of-circle-segment-of-radius-angle-of-segment-of-circle.html",
                 hi: "content/semester-3/mathematics/hi/segment-of-circle-segment-of-radius-angle-of-segment-of-circle.html"
+              },
+              test: {
+                en: "content/semester-3/mathematics/en/test_segment-of-circle-segment-of-radius-angle-of-segment-of-circle.html",
+                hi: "content/semester-3/mathematics/hi/test_segment-of-circle-segment-of-radius-angle-of-segment-of-circle.html"
               }
             },
             {
@@ -2844,6 +3498,27 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/mathematics/en/tangent-and-secant-line-of-circle.html",
                 hi: "content/semester-3/mathematics/hi/tangent-and-secant-line-of-circle.html"
+              },
+              test: {
+                en: "content/semester-3/mathematics/en/test_tangent-and-secant-line-of-circle.html",
+                hi: "content/semester-3/mathematics/hi/test_tangent-and-secant-line-of-circle.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "mathematics-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-3/mathematics/tests/en/test_mathematics_1.html",
+                hi: "content/semester-3/mathematics/tests/hi/test_mathematics_1.html"
               }
             }
           ]
@@ -2866,6 +3541,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/social-science/en/mughal-empire-in-india.html",
                 hi: "content/semester-3/social-science/hi/mughal-empire-in-india.html"
+              },
+              test: {
+                en: "content/semester-3/social-science/en/test_mughal-empire-in-india.html",
+                hi: "content/semester-3/social-science/hi/test_mughal-empire-in-india.html"
               }
             },
             {
@@ -2878,6 +3557,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/social-science/en/maratha-and-european-powers.html",
                 hi: "content/semester-3/social-science/hi/maratha-and-european-powers.html"
+              },
+              test: {
+                en: "content/semester-3/social-science/en/test_maratha-and-european-powers.html",
+                hi: "content/semester-3/social-science/hi/test_maratha-and-european-powers.html"
               }
             },
             {
@@ -2890,6 +3573,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/social-science/en/biosphere-and-life-styles.html",
                 hi: "content/semester-3/social-science/hi/biosphere-and-life-styles.html"
+              },
+              test: {
+                en: "content/semester-3/social-science/en/test_biosphere-and-life-styles.html",
+                hi: "content/semester-3/social-science/hi/test_biosphere-and-life-styles.html"
               }
             },
             {
@@ -2902,6 +3589,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/social-science/en/resources-in-world.html",
                 hi: "content/semester-3/social-science/hi/resources-in-world.html"
+              },
+              test: {
+                en: "content/semester-3/social-science/en/test_resources-in-world.html",
+                hi: "content/semester-3/social-science/hi/test_resources-in-world.html"
               }
             },
             {
@@ -2914,6 +3605,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/social-science/en/india-at-a-glance.html",
                 hi: "content/semester-3/social-science/hi/india-at-a-glance.html"
+              },
+              test: {
+                en: "content/semester-3/social-science/en/test_india-at-a-glance.html",
+                hi: "content/semester-3/social-science/hi/test_india-at-a-glance.html"
               }
             },
             {
@@ -2926,6 +3621,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/social-science/en/governance-system-in-india.html",
                 hi: "content/semester-3/social-science/hi/governance-system-in-india.html"
+              },
+              test: {
+                en: "content/semester-3/social-science/en/test_governance-system-in-india.html",
+                hi: "content/semester-3/social-science/hi/test_governance-system-in-india.html"
               }
             },
             {
@@ -2938,6 +3637,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/social-science/en/indian-judicial-system.html",
                 hi: "content/semester-3/social-science/hi/indian-judicial-system.html"
+              },
+              test: {
+                en: "content/semester-3/social-science/en/test_indian-judicial-system.html",
+                hi: "content/semester-3/social-science/hi/test_indian-judicial-system.html"
               }
             },
             {
@@ -2950,6 +3653,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/social-science/en/indian-finance-system.html",
                 hi: "content/semester-3/social-science/hi/indian-finance-system.html"
+              },
+              test: {
+                en: "content/semester-3/social-science/en/test_indian-finance-system.html",
+                hi: "content/semester-3/social-science/hi/test_indian-finance-system.html"
               }
             },
             {
@@ -2962,6 +3669,27 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/social-science/en/indian-banking-system.html",
                 hi: "content/semester-3/social-science/hi/indian-banking-system.html"
+              },
+              test: {
+                en: "content/semester-3/social-science/en/test_indian-banking-system.html",
+                hi: "content/semester-3/social-science/hi/test_indian-banking-system.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "social-science-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-3/social-science/tests/en/test_social-science_1.html",
+                hi: "content/semester-3/social-science/tests/hi/test_social-science_1.html"
               }
             }
           ]
@@ -2984,6 +3712,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/hindi/en/introduction-to-major-poets-and-authors-in-textbooks.html",
                 hi: "content/semester-3/hindi/hi/introduction-to-major-poets-and-authors-in-textbooks.html"
+              },
+              test: {
+                en: "content/semester-3/hindi/en/test_introduction-to-major-poets-and-authors-in-textbooks.html",
+                hi: "content/semester-3/hindi/hi/test_introduction-to-major-poets-and-authors-in-textbooks.html"
               }
             },
             {
@@ -2996,6 +3728,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/hindi/en/contextual-use-of-words-idioms-and-folk-sayings.html",
                 hi: "content/semester-3/hindi/hi/contextual-use-of-words-idioms-and-folk-sayings.html"
+              },
+              test: {
+                en: "content/semester-3/hindi/en/test_contextual-use-of-words-idioms-and-folk-sayings.html",
+                hi: "content/semester-3/hindi/hi/test_contextual-use-of-words-idioms-and-folk-sayings.html"
               }
             },
             {
@@ -3008,6 +3744,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/hindi/en/independent-writing-of-prose-and-verse.html",
                 hi: "content/semester-3/hindi/hi/independent-writing-of-prose-and-verse.html"
+              },
+              test: {
+                en: "content/semester-3/hindi/en/test_independent-writing-of-prose-and-verse.html",
+                hi: "content/semester-3/hindi/hi/test_independent-writing-of-prose-and-verse.html"
               }
             },
             {
@@ -3020,6 +3760,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/hindi/en/introduction-to-verb-and-sentence-forms.html",
                 hi: "content/semester-3/hindi/hi/introduction-to-verb-and-sentence-forms.html"
+              },
+              test: {
+                en: "content/semester-3/hindi/en/test_introduction-to-verb-and-sentence-forms.html",
+                hi: "content/semester-3/hindi/hi/test_introduction-to-verb-and-sentence-forms.html"
               }
             },
             {
@@ -3032,6 +3776,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/hindi/en/reading-other-material-besides-textbooks.html",
                 hi: "content/semester-3/hindi/hi/reading-other-material-besides-textbooks.html"
+              },
+              test: {
+                en: "content/semester-3/hindi/en/test_reading-other-material-besides-textbooks.html",
+                hi: "content/semester-3/hindi/hi/test_reading-other-material-besides-textbooks.html"
               }
             },
             {
@@ -3044,6 +3792,27 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/hindi/en/evaluation-in-hindi.html",
                 hi: "content/semester-3/hindi/hi/evaluation-in-hindi.html"
+              },
+              test: {
+                en: "content/semester-3/hindi/en/test_evaluation-in-hindi.html",
+                hi: "content/semester-3/hindi/hi/test_evaluation-in-hindi.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "hindi-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-3/hindi/tests/en/test_hindi_1.html",
+                hi: "content/semester-3/hindi/tests/hi/test_hindi_1.html"
               }
             }
           ]
@@ -3066,6 +3835,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/sanskrit/en/sanskrit-letters-and-pronunciation.html",
                 hi: "content/semester-3/sanskrit/hi/sanskrit-letters-and-pronunciation.html"
+              },
+              test: {
+                en: "content/semester-3/sanskrit/en/test_sanskrit-letters-and-pronunciation.html",
+                hi: "content/semester-3/sanskrit/hi/test_sanskrit-letters-and-pronunciation.html"
               }
             },
             {
@@ -3078,6 +3851,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/sanskrit/en/sandhi-prakaran.html",
                 hi: "content/semester-3/sanskrit/hi/sandhi-prakaran.html"
+              },
+              test: {
+                en: "content/semester-3/sanskrit/en/test_sandhi-prakaran.html",
+                hi: "content/semester-3/sanskrit/hi/test_sandhi-prakaran.html"
               }
             },
             {
@@ -3090,6 +3867,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/sanskrit/en/samas-prakaran.html",
                 hi: "content/semester-3/sanskrit/hi/samas-prakaran.html"
+              },
+              test: {
+                en: "content/semester-3/sanskrit/en/test_samas-prakaran.html",
+                hi: "content/semester-3/sanskrit/hi/test_samas-prakaran.html"
               }
             },
             {
@@ -3102,6 +3883,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/sanskrit/en/sanskrit-word-forms-word-types-number-and-cases.html",
                 hi: "content/semester-3/sanskrit/hi/sanskrit-word-forms-word-types-number-and-cases.html"
+              },
+              test: {
+                en: "content/semester-3/sanskrit/en/test_sanskrit-word-forms-word-types-number-and-cases.html",
+                hi: "content/semester-3/sanskrit/hi/test_sanskrit-word-forms-word-types-number-and-cases.html"
               }
             },
             {
@@ -3114,6 +3899,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/sanskrit/en/sanskrit-verb-forms.html",
                 hi: "content/semester-3/sanskrit/hi/sanskrit-verb-forms.html"
+              },
+              test: {
+                en: "content/semester-3/sanskrit/en/test_sanskrit-verb-forms.html",
+                hi: "content/semester-3/sanskrit/hi/test_sanskrit-verb-forms.html"
               }
             },
             {
@@ -3126,6 +3915,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/sanskrit/en/karak-vibhakti-and-signs.html",
                 hi: "content/semester-3/sanskrit/hi/karak-vibhakti-and-signs.html"
+              },
+              test: {
+                en: "content/semester-3/sanskrit/en/test_karak-vibhakti-and-signs.html",
+                hi: "content/semester-3/sanskrit/hi/test_karak-vibhakti-and-signs.html"
               }
             },
             {
@@ -3138,6 +3931,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/sanskrit/en/recitation-and-imitative-reading-of-subhashit-shlokas.html",
                 hi: "content/semester-3/sanskrit/hi/recitation-and-imitative-reading-of-subhashit-shlokas.html"
+              },
+              test: {
+                en: "content/semester-3/sanskrit/en/test_recitation-and-imitative-reading-of-subhashit-shlokas.html",
+                hi: "content/semester-3/sanskrit/hi/test_recitation-and-imitative-reading-of-subhashit-shlokas.html"
               }
             },
             {
@@ -3150,6 +3947,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/sanskrit/en/copywriting-transcription-dictation-and-simple-translation.html",
                 hi: "content/semester-3/sanskrit/hi/copywriting-transcription-dictation-and-simple-translation.html"
+              },
+              test: {
+                en: "content/semester-3/sanskrit/en/test_copywriting-transcription-dictation-and-simple-translation.html",
+                hi: "content/semester-3/sanskrit/hi/test_copywriting-transcription-dictation-and-simple-translation.html"
               }
             },
             {
@@ -3162,6 +3963,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/sanskrit/en/sentence-construction-based-on-dialogue-lessons.html",
                 hi: "content/semester-3/sanskrit/hi/sentence-construction-based-on-dialogue-lessons.html"
+              },
+              test: {
+                en: "content/semester-3/sanskrit/en/test_sentence-construction-based-on-dialogue-lessons.html",
+                hi: "content/semester-3/sanskrit/hi/test_sentence-construction-based-on-dialogue-lessons.html"
               }
             },
             {
@@ -3174,6 +3979,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/sanskrit/en/translation-of-hindi-sentences-into-sanskrit.html",
                 hi: "content/semester-3/sanskrit/hi/translation-of-hindi-sentences-into-sanskrit.html"
+              },
+              test: {
+                en: "content/semester-3/sanskrit/en/test_translation-of-hindi-sentences-into-sanskrit.html",
+                hi: "content/semester-3/sanskrit/hi/test_translation-of-hindi-sentences-into-sanskrit.html"
               }
             },
             {
@@ -3186,6 +3995,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/sanskrit/en/prefixes-suffixes-and-voice-transformation.html",
                 hi: "content/semester-3/sanskrit/hi/prefixes-suffixes-and-voice-transformation.html"
+              },
+              test: {
+                en: "content/semester-3/sanskrit/en/test_prefixes-suffixes-and-voice-transformation.html",
+                hi: "content/semester-3/sanskrit/hi/test_prefixes-suffixes-and-voice-transformation.html"
               }
             },
             {
@@ -3198,6 +4011,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/sanskrit/en/sanskrit-numbers.html",
                 hi: "content/semester-3/sanskrit/hi/sanskrit-numbers.html"
+              },
+              test: {
+                en: "content/semester-3/sanskrit/en/test_sanskrit-numbers.html",
+                hi: "content/semester-3/sanskrit/hi/test_sanskrit-numbers.html"
               }
             },
             {
@@ -3210,6 +4027,27 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/sanskrit/en/suggested-teaching-methods.html",
                 hi: "content/semester-3/sanskrit/hi/suggested-teaching-methods.html"
+              },
+              test: {
+                en: "content/semester-3/sanskrit/en/test_suggested-teaching-methods.html",
+                hi: "content/semester-3/sanskrit/hi/test_suggested-teaching-methods.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "sanskrit-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-3/sanskrit/tests/en/test_sanskrit_1.html",
+                hi: "content/semester-3/sanskrit/tests/hi/test_sanskrit_1.html"
               }
             }
           ]
@@ -3232,6 +4070,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/computer/en/role-of-information-and-communication-technology.html",
                 hi: "content/semester-3/computer/hi/role-of-information-and-communication-technology.html"
+              },
+              test: {
+                en: "content/semester-3/computer/en/test_role-of-information-and-communication-technology.html",
+                hi: "content/semester-3/computer/hi/test_role-of-information-and-communication-technology.html"
               }
             },
             {
@@ -3244,6 +4086,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/computer/en/ict-for-teachers.html",
                 hi: "content/semester-3/computer/hi/ict-for-teachers.html"
+              },
+              test: {
+                en: "content/semester-3/computer/en/test_ict-for-teachers.html",
+                hi: "content/semester-3/computer/hi/test_ict-for-teachers.html"
               }
             },
             {
@@ -3256,6 +4102,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/computer/en/use-of-ict-for-education.html",
                 hi: "content/semester-3/computer/hi/use-of-ict-for-education.html"
+              },
+              test: {
+                en: "content/semester-3/computer/en/test_use-of-ict-for-education.html",
+                hi: "content/semester-3/computer/hi/test_use-of-ict-for-education.html"
               }
             },
             {
@@ -3268,6 +4118,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/computer/en/use-of-ict-for-students.html",
                 hi: "content/semester-3/computer/hi/use-of-ict-for-students.html"
+              },
+              test: {
+                en: "content/semester-3/computer/en/test_use-of-ict-for-students.html",
+                hi: "content/semester-3/computer/hi/test_use-of-ict-for-students.html"
               }
             },
             {
@@ -3280,6 +4134,27 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-3/computer/en/use-of-ict-in-office-work.html",
                 hi: "content/semester-3/computer/hi/use-of-ict-in-office-work.html"
+              },
+              test: {
+                en: "content/semester-3/computer/en/test_use-of-ict-in-office-work.html",
+                hi: "content/semester-3/computer/hi/test_use-of-ict-in-office-work.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "computer-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-3/computer/tests/en/test_computer_1.html",
+                hi: "content/semester-3/computer/tests/hi/test_computer_1.html"
               }
             }
           ]
@@ -3315,6 +4190,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/language-and-mathematics-primary/en/language-skills.html",
                 hi: "content/semester-4/language-and-mathematics-primary/hi/language-skills.html"
+              },
+              test: {
+                en: "content/semester-4/language-and-mathematics-primary/en/test_language-skills.html",
+                hi: "content/semester-4/language-and-mathematics-primary/hi/test_language-skills.html"
               }
             },
             {
@@ -3327,6 +4206,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/language-and-mathematics-primary/en/study-of-sound.html",
                 hi: "content/semester-4/language-and-mathematics-primary/hi/study-of-sound.html"
+              },
+              test: {
+                en: "content/semester-4/language-and-mathematics-primary/en/test_study-of-sound.html",
+                hi: "content/semester-4/language-and-mathematics-primary/hi/test_study-of-sound.html"
               }
             },
             {
@@ -3339,6 +4222,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/language-and-mathematics-primary/en/reading-and-writing-in-pure-form-of-script.html",
                 hi: "content/semester-4/language-and-mathematics-primary/hi/reading-and-writing-in-pure-form-of-script.html"
+              },
+              test: {
+                en: "content/semester-4/language-and-mathematics-primary/en/test_reading-and-writing-in-pure-form-of-script.html",
+                hi: "content/semester-4/language-and-mathematics-primary/hi/test_reading-and-writing-in-pure-form-of-script.html"
               }
             },
             {
@@ -3351,6 +4238,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/language-and-mathematics-primary/en/early-numeracy.html",
                 hi: "content/semester-4/language-and-mathematics-primary/hi/early-numeracy.html"
+              },
+              test: {
+                en: "content/semester-4/language-and-mathematics-primary/en/test_early-numeracy.html",
+                hi: "content/semester-4/language-and-mathematics-primary/hi/test_early-numeracy.html"
               }
             },
             {
@@ -3363,6 +4254,27 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/language-and-mathematics-primary/en/mathematical-operations.html",
                 hi: "content/semester-4/language-and-mathematics-primary/hi/mathematical-operations.html"
+              },
+              test: {
+                en: "content/semester-4/language-and-mathematics-primary/en/test_mathematical-operations.html",
+                hi: "content/semester-4/language-and-mathematics-primary/hi/test_mathematical-operations.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "language-and-mathematics-primary-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-4/language-and-mathematics-primary/tests/en/test_language-and-mathematics-primary_1.html",
+                hi: "content/semester-4/language-and-mathematics-primary/tests/hi/test_language-and-mathematics-primary_1.html"
               }
             }
           ]
@@ -3388,6 +4300,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/educational-management/en/educational-administration.html",
                 hi: "content/semester-4/educational-management/hi/educational-administration.html"
+              },
+              test: {
+                en: "content/semester-4/educational-management/en/test_educational-administration.html",
+                hi: "content/semester-4/educational-management/hi/test_educational-administration.html"
               }
             },
             {
@@ -3400,6 +4316,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/educational-management/en/financial-educational-and-time-management.html",
                 hi: "content/semester-4/educational-management/hi/financial-educational-and-time-management.html"
+              },
+              test: {
+                en: "content/semester-4/educational-management/en/test_financial-educational-and-time-management.html",
+                hi: "content/semester-4/educational-management/hi/test_financial-educational-and-time-management.html"
               }
             },
             {
@@ -3412,6 +4332,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/educational-management/en/records-and-disaster-management.html",
                 hi: "content/semester-4/educational-management/hi/records-and-disaster-management.html"
+              },
+              test: {
+                en: "content/semester-4/educational-management/en/test_records-and-disaster-management.html",
+                hi: "content/semester-4/educational-management/hi/test_records-and-disaster-management.html"
               }
             },
             {
@@ -3424,6 +4348,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/educational-management/en/agencies-working-at-national-and-state-level.html",
                 hi: "content/semester-4/educational-management/hi/agencies-working-at-national-and-state-level.html"
+              },
+              test: {
+                en: "content/semester-4/educational-management/en/test_agencies-working-at-national-and-state-level.html",
+                hi: "content/semester-4/educational-management/hi/test_agencies-working-at-national-and-state-level.html"
               }
             },
             {
@@ -3436,6 +4364,27 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/educational-management/en/agencies-working-at-district-and-local-level.html",
                 hi: "content/semester-4/educational-management/hi/agencies-working-at-district-and-local-level.html"
+              },
+              test: {
+                en: "content/semester-4/educational-management/en/test_agencies-working-at-district-and-local-level.html",
+                hi: "content/semester-4/educational-management/hi/test_agencies-working-at-district-and-local-level.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "educational-management-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-4/educational-management/tests/en/test_educational-management_1.html",
+                hi: "content/semester-4/educational-management/tests/hi/test_educational-management_1.html"
               }
             }
           ]
@@ -3760,6 +4709,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/social-science/en/freedom-movement-of-1857-and-reform-movements.html",
                 hi: "content/semester-4/social-science/hi/freedom-movement-of-1857-and-reform-movements.html"
+              },
+              test: {
+                en: "content/semester-4/social-science/en/test_freedom-movement-of-1857-and-reform-movements.html",
+                hi: "content/semester-4/social-science/hi/test_freedom-movement-of-1857-and-reform-movements.html"
               }
             },
             {
@@ -3772,6 +4725,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/social-science/en/national-movement-and-demand-of-full-freedom.html",
                 hi: "content/semester-4/social-science/hi/national-movement-and-demand-of-full-freedom.html"
+              },
+              test: {
+                en: "content/semester-4/social-science/en/test_national-movement-and-demand-of-full-freedom.html",
+                hi: "content/semester-4/social-science/hi/test_national-movement-and-demand-of-full-freedom.html"
               }
             },
             {
@@ -3784,6 +4741,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/social-science/en/climate-and-season-and-natural-regions-in-india.html",
                 hi: "content/semester-4/social-science/hi/climate-and-season-and-natural-regions-in-india.html"
+              },
+              test: {
+                en: "content/semester-4/social-science/en/test_climate-and-season-and-natural-regions-in-india.html",
+                hi: "content/semester-4/social-science/hi/test_climate-and-season-and-natural-regions-in-india.html"
               }
             },
             {
@@ -3796,6 +4757,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/social-science/en/uttar-pradesh-a-holistic-view.html",
                 hi: "content/semester-4/social-science/hi/uttar-pradesh-a-holistic-view.html"
+              },
+              test: {
+                en: "content/semester-4/social-science/en/test_uttar-pradesh-a-holistic-view.html",
+                hi: "content/semester-4/social-science/hi/test_uttar-pradesh-a-holistic-view.html"
               }
             },
             {
@@ -3808,6 +4773,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/social-science/en/environmental-pollution-and-united-nations-organisation.html",
                 hi: "content/semester-4/social-science/hi/environmental-pollution-and-united-nations-organisation.html"
+              },
+              test: {
+                en: "content/semester-4/social-science/en/test_environmental-pollution-and-united-nations-organisation.html",
+                hi: "content/semester-4/social-science/hi/test_environmental-pollution-and-united-nations-organisation.html"
               }
             },
             {
@@ -3820,6 +4789,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/social-science/en/census-civil-security-and-public-welfare-schemes-of-government.html",
                 hi: "content/semester-4/social-science/hi/census-civil-security-and-public-welfare-schemes-of-government.html"
+              },
+              test: {
+                en: "content/semester-4/social-science/en/test_census-civil-security-and-public-welfare-schemes-of-government.html",
+                hi: "content/semester-4/social-science/hi/test_census-civil-security-and-public-welfare-schemes-of-government.html"
               }
             },
             {
@@ -3832,6 +4805,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/social-science/en/unity-in-diversity-and-social-issues.html",
                 hi: "content/semester-4/social-science/hi/unity-in-diversity-and-social-issues.html"
+              },
+              test: {
+                en: "content/semester-4/social-science/en/test_unity-in-diversity-and-social-issues.html",
+                hi: "content/semester-4/social-science/hi/test_unity-in-diversity-and-social-issues.html"
               }
             },
             {
@@ -3844,6 +4821,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/social-science/en/major-challenges-for-indian-economy.html",
                 hi: "content/semester-4/social-science/hi/major-challenges-for-indian-economy.html"
+              },
+              test: {
+                en: "content/semester-4/social-science/en/test_major-challenges-for-indian-economy.html",
+                hi: "content/semester-4/social-science/hi/test_major-challenges-for-indian-economy.html"
               }
             },
             {
@@ -3856,6 +4837,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/social-science/en/food-security-in-india-and-globalisation.html",
                 hi: "content/semester-4/social-science/hi/food-security-in-india-and-globalisation.html"
+              },
+              test: {
+                en: "content/semester-4/social-science/en/test_food-security-in-india-and-globalisation.html",
+                hi: "content/semester-4/social-science/hi/test_food-security-in-india-and-globalisation.html"
               }
             },
             {
@@ -3868,6 +4853,27 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/social-science/en/presentation-of-data-and-measures-of-central-tendency.html",
                 hi: "content/semester-4/social-science/hi/presentation-of-data-and-measures-of-central-tendency.html"
+              },
+              test: {
+                en: "content/semester-4/social-science/en/test_presentation-of-data-and-measures-of-central-tendency.html",
+                hi: "content/semester-4/social-science/hi/test_presentation-of-data-and-measures-of-central-tendency.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "social-science-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-4/social-science/tests/en/test_social-science_1.html",
+                hi: "content/semester-4/social-science/tests/hi/test_social-science_1.html"
               }
             }
           ]
@@ -3890,6 +4896,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/hindi/en/compulsory-sanskrit-pronunciation-reading-and-writing.html",
                 hi: "content/semester-4/hindi/hi/compulsory-sanskrit-pronunciation-reading-and-writing.html"
+              },
+              test: {
+                en: "content/semester-4/hindi/en/test_compulsory-sanskrit-pronunciation-reading-and-writing.html",
+                hi: "content/semester-4/hindi/hi/test_compulsory-sanskrit-pronunciation-reading-and-writing.html"
               }
             },
             {
@@ -3902,6 +4912,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/hindi/en/other-reading-material-and-paragraph-writing.html",
                 hi: "content/semester-4/hindi/hi/other-reading-material-and-paragraph-writing.html"
+              },
+              test: {
+                en: "content/semester-4/hindi/en/test_other-reading-material-and-paragraph-writing.html",
+                hi: "content/semester-4/hindi/hi/test_other-reading-material-and-paragraph-writing.html"
               }
             },
             {
@@ -3914,6 +4928,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/hindi/en/introduction-to-hindi-literary-genres-and-authors.html",
                 hi: "content/semester-4/hindi/hi/introduction-to-hindi-literary-genres-and-authors.html"
+              },
+              test: {
+                en: "content/semester-4/hindi/en/test_introduction-to-hindi-literary-genres-and-authors.html",
+                hi: "content/semester-4/hindi/hi/test_introduction-to-hindi-literary-genres-and-authors.html"
               }
             },
             {
@@ -3926,6 +4944,27 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/hindi/en/compulsory-sanskrit-teaching.html",
                 hi: "content/semester-4/hindi/hi/compulsory-sanskrit-teaching.html"
+              },
+              test: {
+                en: "content/semester-4/hindi/en/test_compulsory-sanskrit-teaching.html",
+                hi: "content/semester-4/hindi/hi/test_compulsory-sanskrit-teaching.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "hindi-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-4/hindi/tests/en/test_hindi_1.html",
+                hi: "content/semester-4/hindi/tests/hi/test_hindi_1.html"
               }
             }
           ]
@@ -3948,6 +4987,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/english/en/theoretical-aspects-of-english.html",
                 hi: "content/semester-4/english/hi/theoretical-aspects-of-english.html"
+              },
+              test: {
+                en: "content/semester-4/english/en/test_theoretical-aspects-of-english.html",
+                hi: "content/semester-4/english/hi/test_theoretical-aspects-of-english.html"
               }
             },
             {
@@ -3960,6 +5003,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/english/en/content-specification-grammar.html",
                 hi: "content/semester-4/english/hi/content-specification-grammar.html"
+              },
+              test: {
+                en: "content/semester-4/english/en/test_content-specification-grammar.html",
+                hi: "content/semester-4/english/hi/test_content-specification-grammar.html"
               }
             },
             {
@@ -3972,6 +5019,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/english/en/grammar-tense.html",
                 hi: "content/semester-4/english/hi/grammar-tense.html"
+              },
+              test: {
+                en: "content/semester-4/english/en/test_grammar-tense.html",
+                hi: "content/semester-4/english/hi/test_grammar-tense.html"
               }
             },
             {
@@ -3984,6 +5035,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/english/en/grammar-preposition-and-conjunction.html",
                 hi: "content/semester-4/english/hi/grammar-preposition-and-conjunction.html"
+              },
+              test: {
+                en: "content/semester-4/english/en/test_grammar-preposition-and-conjunction.html",
+                hi: "content/semester-4/english/hi/test_grammar-preposition-and-conjunction.html"
               }
             },
             {
@@ -3996,6 +5051,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/english/en/writing.html",
                 hi: "content/semester-4/english/hi/writing.html"
+              },
+              test: {
+                en: "content/semester-4/english/en/test_writing.html",
+                hi: "content/semester-4/english/hi/test_writing.html"
               }
             },
             {
@@ -4008,6 +5067,27 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/english/en/lesson-planning.html",
                 hi: "content/semester-4/english/hi/lesson-planning.html"
+              },
+              test: {
+                en: "content/semester-4/english/en/test_lesson-planning.html",
+                hi: "content/semester-4/english/hi/test_lesson-planning.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "english-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-4/english/tests/en/test_english_1.html",
+                hi: "content/semester-4/english/tests/hi/test_english_1.html"
               }
             }
           ]
@@ -4033,6 +5113,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/peace-education/en/peace-education-and-indian-life-values.html",
                 hi: "content/semester-4/peace-education/hi/peace-education-and-indian-life-values.html"
+              },
+              test: {
+                en: "content/semester-4/peace-education/en/test_peace-education-and-indian-life-values.html",
+                hi: "content/semester-4/peace-education/hi/test_peace-education-and-indian-life-values.html"
               }
             },
             {
@@ -4045,6 +5129,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/peace-education/en/personality-and-social-development.html",
                 hi: "content/semester-4/peace-education/hi/personality-and-social-development.html"
+              },
+              test: {
+                en: "content/semester-4/peace-education/en/test_personality-and-social-development.html",
+                hi: "content/semester-4/peace-education/hi/test_personality-and-social-development.html"
               }
             },
             {
@@ -4057,6 +5145,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/peace-education/en/interpersonal-understanding-of-relationship.html",
                 hi: "content/semester-4/peace-education/hi/interpersonal-understanding-of-relationship.html"
+              },
+              test: {
+                en: "content/semester-4/peace-education/en/test_interpersonal-understanding-of-relationship.html",
+                hi: "content/semester-4/peace-education/hi/test_interpersonal-understanding-of-relationship.html"
               }
             },
             {
@@ -4069,6 +5161,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/peace-education/en/stimuli-and-response-in-behaviourism.html",
                 hi: "content/semester-4/peace-education/hi/stimuli-and-response-in-behaviourism.html"
+              },
+              test: {
+                en: "content/semester-4/peace-education/en/test_stimuli-and-response-in-behaviourism.html",
+                hi: "content/semester-4/peace-education/hi/test_stimuli-and-response-in-behaviourism.html"
               }
             },
             {
@@ -4081,6 +5177,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/peace-education/en/violence-causes-and-prevention.html",
                 hi: "content/semester-4/peace-education/hi/violence-causes-and-prevention.html"
+              },
+              test: {
+                en: "content/semester-4/peace-education/en/test_violence-causes-and-prevention.html",
+                hi: "content/semester-4/peace-education/hi/test_violence-causes-and-prevention.html"
               }
             },
             {
@@ -4093,6 +5193,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/peace-education/en/philosophical-thinking-and-peace.html",
                 hi: "content/semester-4/peace-education/hi/philosophical-thinking-and-peace.html"
+              },
+              test: {
+                en: "content/semester-4/peace-education/en/test_philosophical-thinking-and-peace.html",
+                hi: "content/semester-4/peace-education/hi/test_philosophical-thinking-and-peace.html"
               }
             },
             {
@@ -4105,6 +5209,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/peace-education/en/stress-management-and-internal-peace.html",
                 hi: "content/semester-4/peace-education/hi/stress-management-and-internal-peace.html"
+              },
+              test: {
+                en: "content/semester-4/peace-education/en/test_stress-management-and-internal-peace.html",
+                hi: "content/semester-4/peace-education/hi/test_stress-management-and-internal-peace.html"
               }
             },
             {
@@ -4117,6 +5225,10 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/peace-education/en/religious-tolerance-in-india-and-human-rights.html",
                 hi: "content/semester-4/peace-education/hi/religious-tolerance-in-india-and-human-rights.html"
+              },
+              test: {
+                en: "content/semester-4/peace-education/en/test_religious-tolerance-in-india-and-human-rights.html",
+                hi: "content/semester-4/peace-education/hi/test_religious-tolerance-in-india-and-human-rights.html"
               }
             },
             {
@@ -4129,6 +5241,27 @@ window.COURSE_CATALOG = {
               file: {
                 en: "content/semester-4/peace-education/en/sustainable-development-and-environment.html",
                 hi: "content/semester-4/peace-education/hi/sustainable-development-and-environment.html"
+              },
+              test: {
+                en: "content/semester-4/peace-education/en/test_sustainable-development-and-environment.html",
+                hi: "content/semester-4/peace-education/hi/test_sustainable-development-and-environment.html"
+              }
+            }
+          ],
+          tests: [
+            {
+              id: "peace-education-1",
+              title: {
+                en: "Test 1",
+                hi: "टेस्ट 1"
+              },
+              summary: {
+                en: "Mixed subject-level practice across all chapters.",
+                hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
+              },
+              file: {
+                en: "content/semester-4/peace-education/tests/en/test_peace-education_1.html",
+                hi: "content/semester-4/peace-education/tests/hi/test_peace-education_1.html"
               }
             }
           ]
