@@ -89,6 +89,21 @@
     return [label(subject.summary), ...topicSummaries].filter(Boolean).slice(0, 5);
   }
 
+  function renderSidebarReturn(semester, subject) {
+    const href = subject ? `#/semester/${semester.id}` : "#/";
+    const text = subject ? t("backToSubjects") : t("backToSemesters");
+    const icon = subject ? "&larr;" : "&#8962;";
+
+    return `
+      <div class="sidebar-return">
+        <a class="sidebar-return-link" href="${href}">
+          <span class="sidebar-return-icon" aria-hidden="true">${icon}</span>
+          <span>${text}</span>
+        </a>
+      </div>
+    `;
+  }
+
   function renderHome() {
     app.innerHTML = `
       <section class="home">
@@ -154,7 +169,7 @@
       <aside class="reader-sidebar" id="readerSidebar">
         <div class="sidebar-inner">
           <div class="sidebar-main">
-            ${subject ? `<a class="crumb" href="#/semester/${semester.id}">${t("backToSubjects")}</a>` : ""}
+            ${renderSidebarReturn(semester, subject)}
             <h2 class="sidebar-title">${title}</h2>
             <ul class="sidebar-list">
               ${items.map((item, index) => {

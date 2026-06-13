@@ -1151,81 +1151,81 @@ window.COURSE_CATALOG = {
           topics: [
             {
               id: "listening-and-correct-pronunciation",
-              title: { en: "Listening and Correct Pronunciation", hi: "श्रवण और शुद्ध उच्चारण" },
+              title: { en: "श्रवण और शुद्ध उच्चारण", hi: "श्रवण और शुद्ध उच्चारण" },
               summary: {
                 en: "Understanding Hindi sounds through listening and practicing correct pronunciation.",
                 hi: "हिंदी ध्वनियों को सुनकर समझना और शुद्ध उच्चारण का अभ्यास।"
               },
               file: {
-                en: "content/semester-1/hindi/en/listening-and-correct-pronunciation.html",
+                en: "content/semester-1/hindi/hi/listening-and-correct-pronunciation.html",
                 hi: "content/semester-1/hindi/hi/listening-and-correct-pronunciation.html"
               },
               test: {
-                en: "content/semester-1/hindi/en/test_listening-and-correct-pronunciation.html",
+                en: "content/semester-1/hindi/hi/test_listening-and-correct-pronunciation.html",
                 hi: "content/semester-1/hindi/hi/test_listening-and-correct-pronunciation.html"
               }
             },
             {
               id: "devanagari-script",
-              title: { en: "Devanagari Script", hi: "देवनागरी लिपि" },
+              title: { en: "देवनागरी लिपि", hi: "देवनागरी लिपि" },
               summary: {
                 en: "Script signs, vowels, consonants, conjunct letters, and matras in Devanagari.",
                 hi: "देवनागरी लिपि के संकेत, स्वर, व्यंजन, संयुक्त वर्ण, संयुक्ताक्षर और मात्राओं का ज्ञान।"
               },
               file: {
-                en: "content/semester-1/hindi/en/devanagari-script.html",
+                en: "content/semester-1/hindi/hi/devanagari-script.html",
                 hi: "content/semester-1/hindi/hi/devanagari-script.html"
               },
               test: {
-                en: "content/semester-1/hindi/en/test_devanagari-script.html",
+                en: "content/semester-1/hindi/hi/test_devanagari-script.html",
                 hi: "content/semester-1/hindi/hi/test_devanagari-script.html"
               }
             },
             {
               id: "word-recognition",
-              title: { en: "Word Recognition", hi: "शब्द पहचान" },
+              title: { en: "शब्द पहचान", hi: "शब्द पहचान" },
               summary: {
                 en: "Recognizing antonyms, synonyms, rhyming words, and similar-sounding words.",
                 hi: "विलोम, समानार्थी, तुकांत और समान ध्वनि वाले शब्दों की पहचान।"
               },
               file: {
-                en: "content/semester-1/hindi/en/word-recognition.html",
+                en: "content/semester-1/hindi/hi/word-recognition.html",
                 hi: "content/semester-1/hindi/hi/word-recognition.html"
               },
               test: {
-                en: "content/semester-1/hindi/en/test_word-recognition.html",
+                en: "content/semester-1/hindi/hi/test_word-recognition.html",
                 hi: "content/semester-1/hindi/hi/test_word-recognition.html"
               }
             },
             {
               id: "punctuation-marks",
-              title: { en: "Punctuation Marks", hi: "विराम चिह्न" },
+              title: { en: "विराम चिह्न", hi: "विराम चिह्न" },
               summary: {
                 en: "Knowledge and use of comma, semicolon, full stop, question mark, exclamation mark, and quotation marks.",
                 hi: "अल्पविराम, अर्धविराम, पूर्णविराम, प्रश्नवाचक, विस्मयबोधक और अवतरण चिह्नों का ज्ञान और प्रयोग।"
               },
               file: {
-                en: "content/semester-1/hindi/en/punctuation-marks.html",
+                en: "content/semester-1/hindi/hi/punctuation-marks.html",
                 hi: "content/semester-1/hindi/hi/punctuation-marks.html"
               },
               test: {
-                en: "content/semester-1/hindi/en/test_punctuation-marks.html",
+                en: "content/semester-1/hindi/hi/test_punctuation-marks.html",
                 hi: "content/semester-1/hindi/hi/test_punctuation-marks.html"
               }
             },
             {
               id: "writing-teaching",
-              title: { en: "Writing Teaching", hi: "लेखन शिक्षण" },
+              title: { en: "लेखन शिक्षण", hi: "लेखन शिक्षण" },
               summary: {
                 en: "Methods of teaching writing, posture, pen grip, letter formation, model practice, handwriting, copying, and dictation.",
                 hi: "लेखन शिक्षण की विधियां, बैठने का ढंग, कलम पकड़ना, अक्षर-रचना, नमूना अभ्यास, सुलेख, अनुलेख और श्रुतलेख।"
               },
               file: {
-                en: "content/semester-1/hindi/en/writing-teaching.html",
+                en: "content/semester-1/hindi/hi/writing-teaching.html",
                 hi: "content/semester-1/hindi/hi/writing-teaching.html"
               },
               test: {
-                en: "content/semester-1/hindi/en/test_writing-teaching.html",
+                en: "content/semester-1/hindi/hi/test_writing-teaching.html",
                 hi: "content/semester-1/hindi/hi/test_writing-teaching.html"
               }
             }
@@ -1234,7 +1234,7 @@ window.COURSE_CATALOG = {
             {
               id: "hindi-1",
               title: {
-                en: "Test 1",
+                en: "टेस्ट 1",
                 hi: "टेस्ट 1"
               },
               summary: {
@@ -1242,7 +1242,7 @@ window.COURSE_CATALOG = {
                 hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
               },
               file: {
-                en: "content/semester-1/hindi/tests/en/test_hindi_1.html",
+                en: "content/semester-1/hindi/tests/hi/test_hindi_1.html",
                 hi: "content/semester-1/hindi/tests/hi/test_hindi_1.html"
               }
             }
@@ -2555,7 +2555,7 @@ window.COURSE_CATALOG = {
             {
               id: "listening-to-stories-folk-tales-and-incidents",
               title: {
-                en: "Listening to Stories, Folk Tales and Interesting Incidents",
+                en: "कहानी, लोक कथा एवं रोचक प्रसंग को सुनना व याद करना",
                 hi: "कहानी, लोक कथा एवं रोचक प्रसंग को सुनना व याद करना"
               },
               summary: {
@@ -2563,18 +2563,18 @@ window.COURSE_CATALOG = {
                 hi: "कहानियों, लोककथाओं, रोचक प्रसंगों और परिचित अनुभवों पर चर्चा का अभ्यास।"
               },
               file: {
-                en: "content/semester-2/hindi/en/listening-to-stories-folk-tales-and-incidents.html",
+                en: "content/semester-2/hindi/hi/listening-to-stories-folk-tales-and-incidents.html",
                 hi: "content/semester-2/hindi/hi/listening-to-stories-folk-tales-and-incidents.html"
               },
               test: {
-                en: "content/semester-2/hindi/en/test_listening-to-stories-folk-tales-and-incidents.html",
+                en: "content/semester-2/hindi/hi/test_listening-to-stories-folk-tales-and-incidents.html",
                 hi: "content/semester-2/hindi/hi/test_listening-to-stories-folk-tales-and-incidents.html"
               }
             },
             {
               id: "correct-pronunciation-of-prose-and-poetry",
               title: {
-                en: "Correct Pronunciation of Prose and Poetry Passages",
+                en: "गद्य व पद्य के अंशों का शुद्ध उच्चारण",
                 hi: "गद्य व पद्य के अंशों का शुद्ध उच्चारण"
               },
               summary: {
@@ -2582,18 +2582,18 @@ window.COURSE_CATALOG = {
                 hi: "गद्य और पद्य अंशों का शुद्ध उच्चारण, लय, उतार-चढ़ाव और पठन।"
               },
               file: {
-                en: "content/semester-2/hindi/en/correct-pronunciation-of-prose-and-poetry.html",
+                en: "content/semester-2/hindi/hi/correct-pronunciation-of-prose-and-poetry.html",
                 hi: "content/semester-2/hindi/hi/correct-pronunciation-of-prose-and-poetry.html"
               },
               test: {
-                en: "content/semester-2/hindi/en/test_correct-pronunciation-of-prose-and-poetry.html",
+                en: "content/semester-2/hindi/hi/test_correct-pronunciation-of-prose-and-poetry.html",
                 hi: "content/semester-2/hindi/hi/test_correct-pronunciation-of-prose-and-poetry.html"
               }
             },
             {
               id: "independent-expression-and-grammar-knowledge",
               title: {
-                en: "Independent Expression and Grammar Knowledge",
+                en: "स्वतंत्र अभिव्यक्ति एवं व्याकरण सम्बंधी ज्ञान",
                 hi: "स्वतंत्र अभिव्यक्ति एवं व्याकरण सम्बंधी ज्ञान"
               },
               summary: {
@@ -2601,75 +2601,75 @@ window.COURSE_CATALOG = {
                 hi: "मौखिक-लिखित स्वतंत्र अभिव्यक्ति तथा शब्द, वाक्यांश, विराम चिह्न और ध्वनि की समझ।"
               },
               file: {
-                en: "content/semester-2/hindi/en/independent-expression-and-grammar-knowledge.html",
+                en: "content/semester-2/hindi/hi/independent-expression-and-grammar-knowledge.html",
                 hi: "content/semester-2/hindi/hi/independent-expression-and-grammar-knowledge.html"
               },
               test: {
-                en: "content/semester-2/hindi/en/test_independent-expression-and-grammar-knowledge.html",
+                en: "content/semester-2/hindi/hi/test_independent-expression-and-grammar-knowledge.html",
                 hi: "content/semester-2/hindi/hi/test_independent-expression-and-grammar-knowledge.html"
               }
             },
             {
               id: "knowledge-of-hindi-grammar",
-              title: { en: "Knowledge of Hindi Grammar", hi: "हिन्दी व्याकरण का ज्ञान" },
+              title: { en: "हिन्दी व्याकरण का ज्ञान", hi: "हिन्दी व्याकरण का ज्ञान" },
               summary: {
                 en: "Word formation, prefixes, suffixes, conjunctions, compounds, and compound words.",
                 hi: "शब्द रचना, उपसर्ग, प्रत्यय, संधि, समास और सामासिक शब्द।"
               },
               file: {
-                en: "content/semester-2/hindi/en/knowledge-of-hindi-grammar.html",
+                en: "content/semester-2/hindi/hi/knowledge-of-hindi-grammar.html",
                 hi: "content/semester-2/hindi/hi/knowledge-of-hindi-grammar.html"
               },
               test: {
-                en: "content/semester-2/hindi/en/test_knowledge-of-hindi-grammar.html",
+                en: "content/semester-2/hindi/hi/test_knowledge-of-hindi-grammar.html",
                 hi: "content/semester-2/hindi/hi/test_knowledge-of-hindi-grammar.html"
               }
             },
             {
               id: "parts-of-speech",
-              title: { en: "Parts of Speech", hi: "शब्द भेद" },
+              title: { en: "शब्द भेद", hi: "शब्द भेद" },
               summary: {
                 en: "Main grammar categories such as noun, pronoun, verb, gender, number, and tense.",
                 hi: "संज्ञा, सर्वनाम, क्रिया, लिंग, वचन और काल जैसे प्रमुख व्याकरणिक शब्द भेद।"
               },
               file: {
-                en: "content/semester-2/hindi/en/parts-of-speech.html",
+                en: "content/semester-2/hindi/hi/parts-of-speech.html",
                 hi: "content/semester-2/hindi/hi/parts-of-speech.html"
               },
               test: {
-                en: "content/semester-2/hindi/en/test_parts-of-speech.html",
+                en: "content/semester-2/hindi/hi/test_parts-of-speech.html",
                 hi: "content/semester-2/hindi/hi/test_parts-of-speech.html"
               }
             },
             {
               id: "reading-and-sentence-teaching",
-              title: { en: "Reading and Sentence Teaching", hi: "वाचन एवं वाक्य शिक्षण" },
+              title: { en: "वाचन एवं वाक्य शिक्षण", hi: "वाचन एवं वाक्य शिक्षण" },
               summary: {
                 en: "Reading types and sentence-writing practice according to teacher guidance.",
                 hi: "वाचन के प्रकार और शिक्षक के निर्देशानुसार वाक्य लेखन का अभ्यास।"
               },
               file: {
-                en: "content/semester-2/hindi/en/reading-and-sentence-teaching.html",
+                en: "content/semester-2/hindi/hi/reading-and-sentence-teaching.html",
                 hi: "content/semester-2/hindi/hi/reading-and-sentence-teaching.html"
               },
               test: {
-                en: "content/semester-2/hindi/en/test_reading-and-sentence-teaching.html",
+                en: "content/semester-2/hindi/hi/test_reading-and-sentence-teaching.html",
                 hi: "content/semester-2/hindi/hi/test_reading-and-sentence-teaching.html"
               }
             },
             {
               id: "original-writing-on-familiar-topics",
-              title: { en: "Original Writing on Familiar Topics", hi: "परिचित विषयों पर मौलिक लेखन" },
+              title: { en: "परिचित विषयों पर मौलिक लेखन", hi: "परिचित विषयों पर मौलिक लेखन" },
               summary: {
                 en: "Formal and informal letter writing and original writing on familiar topics.",
                 hi: "औपचारिक-अनौपचारिक पत्र लेखन और परिचित विषयों पर मौलिक लेखन।"
               },
               file: {
-                en: "content/semester-2/hindi/en/original-writing-on-familiar-topics.html",
+                en: "content/semester-2/hindi/hi/original-writing-on-familiar-topics.html",
                 hi: "content/semester-2/hindi/hi/original-writing-on-familiar-topics.html"
               },
               test: {
-                en: "content/semester-2/hindi/en/test_original-writing-on-familiar-topics.html",
+                en: "content/semester-2/hindi/hi/test_original-writing-on-familiar-topics.html",
                 hi: "content/semester-2/hindi/hi/test_original-writing-on-familiar-topics.html"
               }
             }
@@ -2678,7 +2678,7 @@ window.COURSE_CATALOG = {
             {
               id: "hindi-1",
               title: {
-                en: "Test 1",
+                en: "टेस्ट 1",
                 hi: "टेस्ट 1"
               },
               summary: {
@@ -2686,7 +2686,7 @@ window.COURSE_CATALOG = {
                 hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
               },
               file: {
-                en: "content/semester-2/hindi/tests/en/test_hindi_1.html",
+                en: "content/semester-2/hindi/tests/hi/test_hindi_1.html",
                 hi: "content/semester-2/hindi/tests/hi/test_hindi_1.html"
               }
             }
@@ -2702,89 +2702,89 @@ window.COURSE_CATALOG = {
           topics: [
             {
               id: "theoretical-aspects",
-              title: { en: "Theoretical Aspects", hi: "सैद्धांतिक पक्ष" },
+              title: { en: "Theoretical Aspects", hi: "Theoretical Aspects" },
               summary: {
                 en: "Approaches, methods, bilingual approach, audio-video method, and language games in English teaching.",
                 hi: "अंग्रेजी शिक्षण में दृष्टिकोण, विधियां, द्विभाषी दृष्टिकोण, ऑडियो-वीडियो विधि और भाषा खेल।"
               },
               file: {
                 en: "content/semester-2/english/en/theoretical-aspects.html",
-                hi: "content/semester-2/english/hi/theoretical-aspects.html"
+                hi: "content/semester-2/english/en/theoretical-aspects.html"
               },
               test: {
                 en: "content/semester-2/english/en/test_theoretical-aspects.html",
-                hi: "content/semester-2/english/hi/test_theoretical-aspects.html"
+                hi: "content/semester-2/english/en/test_theoretical-aspects.html"
               }
             },
             {
               id: "classroom-teaching-content",
-              title: { en: "Classroom Teaching: Content", hi: "कक्षा शिक्षण: विषयवस्तु" },
+              title: { en: "Classroom Teaching: Content", hi: "Classroom Teaching: Content" },
               summary: {
                 en: "English in daily life, greetings, alphabet recognition, and teaching of reading.",
                 hi: "दैनिक जीवन में अंग्रेजी, अभिवादन, वर्णमाला पहचान और पठन शिक्षण।"
               },
               file: {
                 en: "content/semester-2/english/en/classroom-teaching-content.html",
-                hi: "content/semester-2/english/hi/classroom-teaching-content.html"
+                hi: "content/semester-2/english/en/classroom-teaching-content.html"
               },
               test: {
                 en: "content/semester-2/english/en/test_classroom-teaching-content.html",
-                hi: "content/semester-2/english/hi/test_classroom-teaching-content.html"
+                hi: "content/semester-2/english/en/test_classroom-teaching-content.html"
               }
             },
             {
               id: "teaching-of-poetry",
-              title: { en: "Teaching of Poetry", hi: "कविता शिक्षण" },
+              title: { en: "Teaching of Poetry", hi: "Teaching of Poetry" },
               summary: {
                 en: "Aims, steps, importance, and recitation of rhymes and poems with rhythm and intonation.",
                 hi: "कविता शिक्षण के उद्देश्य, चरण, महत्व तथा लय और उतार-चढ़ाव के साथ कविता-पाठ।"
               },
               file: {
                 en: "content/semester-2/english/en/teaching-of-poetry.html",
-                hi: "content/semester-2/english/hi/teaching-of-poetry.html"
+                hi: "content/semester-2/english/en/teaching-of-poetry.html"
               },
               test: {
                 en: "content/semester-2/english/en/test_teaching-of-poetry.html",
-                hi: "content/semester-2/english/hi/test_teaching-of-poetry.html"
+                hi: "content/semester-2/english/en/test_teaching-of-poetry.html"
               }
             },
             {
               id: "teaching-of-writing-skills",
-              title: { en: "Teaching of Writing Skills", hi: "लेखन कौशल शिक्षण" },
+              title: { en: "Teaching of Writing Skills", hi: "Teaching of Writing Skills" },
               summary: {
                 en: "Writing practice, handwriting, spelling, and methods for developing writing skills.",
                 hi: "लेखन अभ्यास, हस्तलेखन, वर्तनी और लेखन कौशल विकसित करने की विधियां।"
               },
               file: {
                 en: "content/semester-2/english/en/teaching-of-writing-skills.html",
-                hi: "content/semester-2/english/hi/teaching-of-writing-skills.html"
+                hi: "content/semester-2/english/en/teaching-of-writing-skills.html"
               },
               test: {
                 en: "content/semester-2/english/en/test_teaching-of-writing-skills.html",
-                hi: "content/semester-2/english/hi/test_teaching-of-writing-skills.html"
+                hi: "content/semester-2/english/en/test_teaching-of-writing-skills.html"
               }
             },
             {
               id: "grammar-1",
-              title: { en: "Grammar I", hi: "व्याकरण 1" },
+              title: { en: "Grammar I", hi: "Grammar I" },
               summary: {
                 en: "Grammar basics, sentences, punctuation, and determiners of noun.",
                 hi: "व्याकरण की मूल बातें, वाक्य, विराम चिह्न और आर्टिकल।"
               },
               file: {
                 en: "content/semester-2/english/en/grammar-1.html",
-                hi: "content/semester-2/english/hi/grammar-1.html"
+                hi: "content/semester-2/english/en/grammar-1.html"
               },
               test: {
                 en: "content/semester-2/english/en/test_grammar-1.html",
-                hi: "content/semester-2/english/hi/test_grammar-1.html"
+                hi: "content/semester-2/english/en/test_grammar-1.html"
               }
             },
             {
               id: "conversational-classroom-instructions",
               title: {
                 en: "Conversational Classroom Instructions",
-                hi: "संवादी कक्षा निर्देश"
+                hi: "Conversational Classroom Instructions"
               },
               summary: {
                 en: "Conversation, classroom instructions, and self-introduction practice.",
@@ -2792,75 +2792,75 @@ window.COURSE_CATALOG = {
               },
               file: {
                 en: "content/semester-2/english/en/conversational-classroom-instructions.html",
-                hi: "content/semester-2/english/hi/conversational-classroom-instructions.html"
+                hi: "content/semester-2/english/en/conversational-classroom-instructions.html"
               },
               test: {
                 en: "content/semester-2/english/en/test_conversational-classroom-instructions.html",
-                hi: "content/semester-2/english/hi/test_conversational-classroom-instructions.html"
+                hi: "content/semester-2/english/en/test_conversational-classroom-instructions.html"
               }
             },
             {
               id: "pronunciation",
-              title: { en: "Pronunciation", hi: "उच्चारण" },
+              title: { en: "Pronunciation", hi: "Pronunciation" },
               summary: {
                 en: "English sounds, vowels, consonants, phonemes, syllables, stress, and reading simple sentences.",
                 hi: "अंग्रेजी ध्वनियां, स्वर, व्यंजन, ध्वनिम, अक्षर, बलाघात और सरल वाक्यों का पठन।"
               },
               file: {
                 en: "content/semester-2/english/en/pronunciation.html",
-                hi: "content/semester-2/english/hi/pronunciation.html"
+                hi: "content/semester-2/english/en/pronunciation.html"
               },
               test: {
                 en: "content/semester-2/english/en/test_pronunciation.html",
-                hi: "content/semester-2/english/hi/test_pronunciation.html"
+                hi: "content/semester-2/english/en/test_pronunciation.html"
               }
             },
             {
               id: "content-specifications",
-              title: { en: "Content Specifications", hi: "विषयवस्तु विनिर्देश" },
+              title: { en: "Content Specifications", hi: "Content Specifications" },
               summary: {
                 en: "Composition, viva-voce, description, narration, extempore, letter writing, vocabulary, and storytelling.",
                 hi: "रचना, मौखिक परीक्षा, वर्णन, कथन, आशु भाषण, पत्र लेखन, शब्दावली और कहानी लेखन।"
               },
               file: {
                 en: "content/semester-2/english/en/content-specifications.html",
-                hi: "content/semester-2/english/hi/content-specifications.html"
+                hi: "content/semester-2/english/en/content-specifications.html"
               },
               test: {
                 en: "content/semester-2/english/en/test_content-specifications.html",
-                hi: "content/semester-2/english/hi/test_content-specifications.html"
+                hi: "content/semester-2/english/en/test_content-specifications.html"
               }
             },
             {
               id: "grammar-2",
-              title: { en: "Grammar II", hi: "व्याकरण 2" },
+              title: { en: "Grammar II", hi: "Grammar II" },
               summary: {
                 en: "Noun, pronoun, adjective comparison, verb tenses, sentence transformation, voice, and common errors.",
                 hi: "संज्ञा, सर्वनाम, विशेषण तुलना, क्रिया काल, वाक्य रूपांतरण, वाच्य और सामान्य त्रुटियां।"
               },
               file: {
                 en: "content/semester-2/english/en/grammar-2.html",
-                hi: "content/semester-2/english/hi/grammar-2.html"
+                hi: "content/semester-2/english/en/grammar-2.html"
               },
               test: {
                 en: "content/semester-2/english/en/test_grammar-2.html",
-                hi: "content/semester-2/english/hi/test_grammar-2.html"
+                hi: "content/semester-2/english/en/test_grammar-2.html"
               }
             },
             {
               id: "pronunciation-and-lesson-planning",
-              title: { en: "Pronunciation and Lesson Planning", hi: "उच्चारण एवं पाठ योजना" },
+              title: { en: "Pronunciation and Lesson Planning", hi: "Pronunciation and Lesson Planning" },
               summary: {
                 en: "Production of sounds, silent letters, reading aloud, intonation, modulation, and lesson-plan preparation.",
                 hi: "ध्वनियों का उत्पादन, मौन अक्षर, सस्वर पठन, उतार-चढ़ाव, स्वर-मॉड्यूलेशन और पाठ योजना निर्माण।"
               },
               file: {
                 en: "content/semester-2/english/en/pronunciation-and-lesson-planning.html",
-                hi: "content/semester-2/english/hi/pronunciation-and-lesson-planning.html"
+                hi: "content/semester-2/english/en/pronunciation-and-lesson-planning.html"
               },
               test: {
                 en: "content/semester-2/english/en/test_pronunciation-and-lesson-planning.html",
-                hi: "content/semester-2/english/hi/test_pronunciation-and-lesson-planning.html"
+                hi: "content/semester-2/english/en/test_pronunciation-and-lesson-planning.html"
               }
             }
           ],
@@ -2869,7 +2869,7 @@ window.COURSE_CATALOG = {
               id: "english-1",
               title: {
                 en: "Test 1",
-                hi: "टेस्ट 1"
+                hi: "Test 1"
               },
               summary: {
                 en: "Mixed subject-level practice across all chapters.",
@@ -2877,7 +2877,7 @@ window.COURSE_CATALOG = {
               },
               file: {
                 en: "content/semester-2/english/tests/en/test_english_1.html",
-                hi: "content/semester-2/english/tests/hi/test_english_1.html"
+                hi: "content/semester-2/english/tests/en/test_english_1.html"
               }
             }
           ]
@@ -2886,7 +2886,7 @@ window.COURSE_CATALOG = {
     },
     {
       id: "3",
-      title: { en: "Semester 3", hi: "सेमेस्टर 3" },
+      title: { en: "Semester 3", hi: "Semester 3" },
       summary: {
         en: "Educational evaluation, action research, inclusive education, and subject teaching practice.",
         hi: "शैक्षिक मूल्यांकन, क्रियात्मक शोध, समावेशी शिक्षा और विषय शिक्षण अभ्यास।"
@@ -3704,97 +3704,97 @@ window.COURSE_CATALOG = {
           topics: [
             {
               id: "introduction-to-major-poets-and-authors-in-textbooks",
-              title: { en: "Introduction to Major Poets and Authors in Textbooks", hi: "पाठ्यपुस्तक में आए प्रमुख कवियों और लेखकों का परिचय" },
+              title: { en: "पाठ्यपुस्तक में आए प्रमुख कवियों और लेखकों का परिचय", hi: "पाठ्यपुस्तक में आए प्रमुख कवियों और लेखकों का परिचय" },
               summary: {
                 en: "Introductory study of major poets and authors appearing in classes 2 to 8 textbooks.",
                 hi: "कक्षा 2 से 8 तक की पाठ्यपुस्तकों में आए प्रमुख कवियों और लेखकों का परिचय।"
               },
               file: {
-                en: "content/semester-3/hindi/en/introduction-to-major-poets-and-authors-in-textbooks.html",
+                en: "content/semester-3/hindi/hi/introduction-to-major-poets-and-authors-in-textbooks.html",
                 hi: "content/semester-3/hindi/hi/introduction-to-major-poets-and-authors-in-textbooks.html"
               },
               test: {
-                en: "content/semester-3/hindi/en/test_introduction-to-major-poets-and-authors-in-textbooks.html",
+                en: "content/semester-3/hindi/hi/test_introduction-to-major-poets-and-authors-in-textbooks.html",
                 hi: "content/semester-3/hindi/hi/test_introduction-to-major-poets-and-authors-in-textbooks.html"
               }
             },
             {
               id: "contextual-use-of-words-idioms-and-folk-sayings",
-              title: { en: "Contextual Use of Words, Idioms and Folk Sayings", hi: "श्रुत सामग्री में प्रयुक्त शब्दों, मुहावरों, लोकोक्तियों का प्रसंगानुकूल प्रयोग" },
+              title: { en: "श्रुत सामग्री में प्रयुक्त शब्दों, मुहावरों, लोकोक्तियों का प्रसंगानुकूल प्रयोग", hi: "श्रुत सामग्री में प्रयुक्त शब्दों, मुहावरों, लोकोक्तियों का प्रसंगानुकूल प्रयोग" },
               summary: {
                 en: "Contextual use of words, idioms, folk sayings, and related educational activities.",
                 hi: "शब्दों, मुहावरों, लोकोक्तियों और उनसे जुड़ी शैक्षिक गतिविधियों का प्रसंगानुकूल प्रयोग।"
               },
               file: {
-                en: "content/semester-3/hindi/en/contextual-use-of-words-idioms-and-folk-sayings.html",
+                en: "content/semester-3/hindi/hi/contextual-use-of-words-idioms-and-folk-sayings.html",
                 hi: "content/semester-3/hindi/hi/contextual-use-of-words-idioms-and-folk-sayings.html"
               },
               test: {
-                en: "content/semester-3/hindi/en/test_contextual-use-of-words-idioms-and-folk-sayings.html",
+                en: "content/semester-3/hindi/hi/test_contextual-use-of-words-idioms-and-folk-sayings.html",
                 hi: "content/semester-3/hindi/hi/test_contextual-use-of-words-idioms-and-folk-sayings.html"
               }
             },
             {
               id: "independent-writing-of-prose-and-verse",
-              title: { en: "Independent Writing of Prose and Verse", hi: "गद्य एवं पद्य का स्वतंत्र लेखन" },
+              title: { en: "गद्य एवं पद्य का स्वतंत्र लेखन", hi: "गद्य एवं पद्य का स्वतंत्र लेखन" },
               summary: {
                 en: "Independent writing, writing themes, and national festival writing practice.",
                 hi: "स्वतंत्र लेखन, लेखन के विषय और राष्ट्रीय पर्वों पर लेखन अभ्यास।"
               },
               file: {
-                en: "content/semester-3/hindi/en/independent-writing-of-prose-and-verse.html",
+                en: "content/semester-3/hindi/hi/independent-writing-of-prose-and-verse.html",
                 hi: "content/semester-3/hindi/hi/independent-writing-of-prose-and-verse.html"
               },
               test: {
-                en: "content/semester-3/hindi/en/test_independent-writing-of-prose-and-verse.html",
+                en: "content/semester-3/hindi/hi/test_independent-writing-of-prose-and-verse.html",
                 hi: "content/semester-3/hindi/hi/test_independent-writing-of-prose-and-verse.html"
               }
             },
             {
               id: "introduction-to-verb-and-sentence-forms",
-              title: { en: "Introduction to Verb and Sentence Forms", hi: "क्रिया, तत्सम, तद्भव एवं देशज रूपों का परिचय" },
+              title: { en: "क्रिया, तत्सम, तद्भव एवं देशज रूपों का परिचय", hi: "क्रिया, तत्सम, तद्भव एवं देशज रूपों का परिचय" },
               summary: {
                 en: "Verb changes, tatsam-tadbhav-deshaj words, sentence formation, and transformation.",
                 hi: "क्रिया परिवर्तन, तत्सम-तद्भव-देशज शब्द, वाक्य रचना और रूपांतरण।"
               },
               file: {
-                en: "content/semester-3/hindi/en/introduction-to-verb-and-sentence-forms.html",
+                en: "content/semester-3/hindi/hi/introduction-to-verb-and-sentence-forms.html",
                 hi: "content/semester-3/hindi/hi/introduction-to-verb-and-sentence-forms.html"
               },
               test: {
-                en: "content/semester-3/hindi/en/test_introduction-to-verb-and-sentence-forms.html",
+                en: "content/semester-3/hindi/hi/test_introduction-to-verb-and-sentence-forms.html",
                 hi: "content/semester-3/hindi/hi/test_introduction-to-verb-and-sentence-forms.html"
               }
             },
             {
               id: "reading-other-material-besides-textbooks",
-              title: { en: "Reading Other Material Besides Textbooks", hi: "पाठ्य-पुस्तकों के अतिरिक्त अन्य पाठ्यवस्तु" },
+              title: { en: "पाठ्य-पुस्तकों के अतिरिक्त अन्य पाठ्यवस्तु", hi: "पाठ्य-पुस्तकों के अतिरिक्त अन्य पाठ्यवस्तु" },
               summary: {
                 en: "Reading support texts and using appropriate language in formal and informal contexts.",
                 hi: "सहायक पाठ्यवस्तु पढ़ना और औपचारिक-अनौपचारिक परिस्थितियों में उपयुक्त भाषा का प्रयोग।"
               },
               file: {
-                en: "content/semester-3/hindi/en/reading-other-material-besides-textbooks.html",
+                en: "content/semester-3/hindi/hi/reading-other-material-besides-textbooks.html",
                 hi: "content/semester-3/hindi/hi/reading-other-material-besides-textbooks.html"
               },
               test: {
-                en: "content/semester-3/hindi/en/test_reading-other-material-besides-textbooks.html",
+                en: "content/semester-3/hindi/hi/test_reading-other-material-besides-textbooks.html",
                 hi: "content/semester-3/hindi/hi/test_reading-other-material-besides-textbooks.html"
               }
             },
             {
               id: "evaluation-in-hindi",
-              title: { en: "Evaluation in Hindi", hi: "हिंदी में मूल्यांकन" },
+              title: { en: "हिंदी में मूल्यांकन", hi: "हिंदी में मूल्यांकन" },
               summary: {
                 en: "Assessment of learning outcomes, classroom evaluation, and question construction.",
                 hi: "अधिगम प्रतिफल का मूल्यांकन, कक्षा मूल्यांकन और प्रश्न निर्माण।"
               },
               file: {
-                en: "content/semester-3/hindi/en/evaluation-in-hindi.html",
+                en: "content/semester-3/hindi/hi/evaluation-in-hindi.html",
                 hi: "content/semester-3/hindi/hi/evaluation-in-hindi.html"
               },
               test: {
-                en: "content/semester-3/hindi/en/test_evaluation-in-hindi.html",
+                en: "content/semester-3/hindi/hi/test_evaluation-in-hindi.html",
                 hi: "content/semester-3/hindi/hi/test_evaluation-in-hindi.html"
               }
             }
@@ -3803,7 +3803,7 @@ window.COURSE_CATALOG = {
             {
               id: "hindi-1",
               title: {
-                en: "Test 1",
+                en: "टेस्ट 1",
                 hi: "टेस्ट 1"
               },
               summary: {
@@ -3811,7 +3811,7 @@ window.COURSE_CATALOG = {
                 hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
               },
               file: {
-                en: "content/semester-3/hindi/tests/en/test_hindi_1.html",
+                en: "content/semester-3/hindi/tests/hi/test_hindi_1.html",
                 hi: "content/semester-3/hindi/tests/hi/test_hindi_1.html"
               }
             }
@@ -4888,65 +4888,65 @@ window.COURSE_CATALOG = {
           topics: [
             {
               id: "compulsory-sanskrit-pronunciation-reading-and-writing",
-              title: { en: "Compulsory Sanskrit Pronunciation, Reading and Writing", hi: "अनिवार्य संस्कृत का उच्चारण, वाचन एवं लेखन" },
+              title: { en: "अनिवार्य संस्कृत का उच्चारण, वाचन एवं लेखन", hi: "अनिवार्य संस्कृत का उच्चारण, वाचन एवं लेखन" },
               summary: {
                 en: "Compulsory Sanskrit basics, pronunciation, reading, writing, prefixes, suffixes, and sandhi.",
                 hi: "अनिवार्य संस्कृत, उच्चारण, वाचन, लेखन, उपसर्ग, प्रत्यय और सन्धि।"
               },
               file: {
-                en: "content/semester-4/hindi/en/compulsory-sanskrit-pronunciation-reading-and-writing.html",
+                en: "content/semester-4/hindi/hi/compulsory-sanskrit-pronunciation-reading-and-writing.html",
                 hi: "content/semester-4/hindi/hi/compulsory-sanskrit-pronunciation-reading-and-writing.html"
               },
               test: {
-                en: "content/semester-4/hindi/en/test_compulsory-sanskrit-pronunciation-reading-and-writing.html",
+                en: "content/semester-4/hindi/hi/test_compulsory-sanskrit-pronunciation-reading-and-writing.html",
                 hi: "content/semester-4/hindi/hi/test_compulsory-sanskrit-pronunciation-reading-and-writing.html"
               }
             },
             {
               id: "other-reading-material-and-paragraph-writing",
-              title: { en: "Other Reading Material and Paragraph Writing", hi: "अन्य पाठ्यवस्तु एवं अनुच्छेद लेखन" },
+              title: { en: "अन्य पाठ्यवस्तु एवं अनुच्छेद लेखन", hi: "अन्य पाठ्यवस्तु एवं अनुच्छेद लेखन" },
               summary: {
                 en: "Reading additional material, punctuation marks, and paragraph writing.",
                 hi: "अन्य पाठ्यवस्तु पढ़ना, विराम चिह्न और अनुच्छेद लेखन।"
               },
               file: {
-                en: "content/semester-4/hindi/en/other-reading-material-and-paragraph-writing.html",
+                en: "content/semester-4/hindi/hi/other-reading-material-and-paragraph-writing.html",
                 hi: "content/semester-4/hindi/hi/other-reading-material-and-paragraph-writing.html"
               },
               test: {
-                en: "content/semester-4/hindi/en/test_other-reading-material-and-paragraph-writing.html",
+                en: "content/semester-4/hindi/hi/test_other-reading-material-and-paragraph-writing.html",
                 hi: "content/semester-4/hindi/hi/test_other-reading-material-and-paragraph-writing.html"
               }
             },
             {
               id: "introduction-to-hindi-literary-genres-and-authors",
-              title: { en: "Introduction to Hindi Literary Genres and Authors", hi: "हिन्दी साहित्य की विधाओं एवं लेखकों का परिचय" },
+              title: { en: "हिन्दी साहित्य की विधाओं एवं लेखकों का परिचय", hi: "हिन्दी साहित्य की विधाओं एवं लेखकों का परिचय" },
               summary: {
                 en: "Poetry, essay, story, one-act play, travelogue, biography, autobiography, letter writing, drama, and authors.",
                 hi: "कविता, निबंध, कहानी, एकांकी, यात्रावृत्तांत, जीवनी, आत्मकथा, पत्र लेखन, नाटक और लेखक परिचय।"
               },
               file: {
-                en: "content/semester-4/hindi/en/introduction-to-hindi-literary-genres-and-authors.html",
+                en: "content/semester-4/hindi/hi/introduction-to-hindi-literary-genres-and-authors.html",
                 hi: "content/semester-4/hindi/hi/introduction-to-hindi-literary-genres-and-authors.html"
               },
               test: {
-                en: "content/semester-4/hindi/en/test_introduction-to-hindi-literary-genres-and-authors.html",
+                en: "content/semester-4/hindi/hi/test_introduction-to-hindi-literary-genres-and-authors.html",
                 hi: "content/semester-4/hindi/hi/test_introduction-to-hindi-literary-genres-and-authors.html"
               }
             },
             {
               id: "compulsory-sanskrit-teaching",
-              title: { en: "Compulsory Sanskrit Teaching", hi: "अनिवार्य संस्कृत शिक्षण" },
+              title: { en: "अनिवार्य संस्कृत शिक्षण", hi: "अनिवार्य संस्कृत शिक्षण" },
               summary: {
                 en: "Compulsory Sanskrit teaching, moral verses, vocabulary, sentence use, word forms, and verb forms.",
                 hi: "अनिवार्य संस्कृत शिक्षण, नीति श्लोक, शब्द भंडार, वाक्य प्रयोग, शब्दरूप और धातुरूप।"
               },
               file: {
-                en: "content/semester-4/hindi/en/compulsory-sanskrit-teaching.html",
+                en: "content/semester-4/hindi/hi/compulsory-sanskrit-teaching.html",
                 hi: "content/semester-4/hindi/hi/compulsory-sanskrit-teaching.html"
               },
               test: {
-                en: "content/semester-4/hindi/en/test_compulsory-sanskrit-teaching.html",
+                en: "content/semester-4/hindi/hi/test_compulsory-sanskrit-teaching.html",
                 hi: "content/semester-4/hindi/hi/test_compulsory-sanskrit-teaching.html"
               }
             }
@@ -4955,7 +4955,7 @@ window.COURSE_CATALOG = {
             {
               id: "hindi-1",
               title: {
-                en: "Test 1",
+                en: "टेस्ट 1",
                 hi: "टेस्ट 1"
               },
               summary: {
@@ -4963,7 +4963,7 @@ window.COURSE_CATALOG = {
                 hi: "सभी अध्यायों पर आधारित मिश्रित विषय-स्तरीय अभ्यास।"
               },
               file: {
-                en: "content/semester-4/hindi/tests/en/test_hindi_1.html",
+                en: "content/semester-4/hindi/tests/hi/test_hindi_1.html",
                 hi: "content/semester-4/hindi/tests/hi/test_hindi_1.html"
               }
             }
@@ -4979,98 +4979,98 @@ window.COURSE_CATALOG = {
           topics: [
             {
               id: "theoretical-aspects-of-english",
-              title: { en: "Theoretical Aspects of English", hi: "अंग्रेजी के सैद्धान्तिक पक्ष" },
+              title: { en: "Theoretical Aspects of English", hi: "Theoretical Aspects of English" },
               summary: {
                 en: "Approaches and methods of teaching English, including grammar translation, direct, drill, structural, situational, oral, communicative, and listening comprehension.",
                 hi: "अंग्रेजी शिक्षण के उपागम और विधियां, जिनमें ग्रामर ट्रांसलेशन, डायरेक्ट, ड्रिल, स्ट्रक्चरल, सिचुएशनल, ओरल, कम्युनिकेटिव और लिसनिंग कॉम्प्रिहेन्शन शामिल हैं।"
               },
               file: {
                 en: "content/semester-4/english/en/theoretical-aspects-of-english.html",
-                hi: "content/semester-4/english/hi/theoretical-aspects-of-english.html"
+                hi: "content/semester-4/english/en/theoretical-aspects-of-english.html"
               },
               test: {
                 en: "content/semester-4/english/en/test_theoretical-aspects-of-english.html",
-                hi: "content/semester-4/english/hi/test_theoretical-aspects-of-english.html"
+                hi: "content/semester-4/english/en/test_theoretical-aspects-of-english.html"
               }
             },
             {
               id: "content-specification-grammar",
-              title: { en: "Content Specification: Grammar", hi: "विषयवस्तु विनिर्देश: व्याकरण" },
+              title: { en: "Content Specification: Grammar", hi: "Content Specification: Grammar" },
               summary: {
                 en: "Grammar, sentences, complex and compound sentences, commands, and requests.",
                 hi: "व्याकरण, वाक्य, मिश्र और संयुक्त वाक्य, आदेश और अनुरोध।"
               },
               file: {
                 en: "content/semester-4/english/en/content-specification-grammar.html",
-                hi: "content/semester-4/english/hi/content-specification-grammar.html"
+                hi: "content/semester-4/english/en/content-specification-grammar.html"
               },
               test: {
                 en: "content/semester-4/english/en/test_content-specification-grammar.html",
-                hi: "content/semester-4/english/hi/test_content-specification-grammar.html"
+                hi: "content/semester-4/english/en/test_content-specification-grammar.html"
               }
             },
             {
               id: "grammar-tense",
-              title: { en: "Grammar: Tense", hi: "व्याकरण: काल" },
+              title: { en: "Grammar: Tense", hi: "Grammar: Tense" },
               summary: {
                 en: "Present, past, and future tense forms and rules.",
                 hi: "वर्तमान, भूत और भविष्य काल के रूप और नियम।"
               },
               file: {
                 en: "content/semester-4/english/en/grammar-tense.html",
-                hi: "content/semester-4/english/hi/grammar-tense.html"
+                hi: "content/semester-4/english/en/grammar-tense.html"
               },
               test: {
                 en: "content/semester-4/english/en/test_grammar-tense.html",
-                hi: "content/semester-4/english/hi/test_grammar-tense.html"
+                hi: "content/semester-4/english/en/test_grammar-tense.html"
               }
             },
             {
               id: "grammar-preposition-and-conjunction",
-              title: { en: "Grammar: Preposition and Conjunction", hi: "व्याकरण: पूर्वसर्ग और समुच्चयबोधक" },
+              title: { en: "Grammar: Preposition and Conjunction", hi: "Grammar: Preposition and Conjunction" },
               summary: {
                 en: "Prepositions, conjunctions, their types, uses, and examples.",
                 hi: "पूर्वसर्ग, समुच्चयबोधक, उनके प्रकार, प्रयोग और उदाहरण।"
               },
               file: {
                 en: "content/semester-4/english/en/grammar-preposition-and-conjunction.html",
-                hi: "content/semester-4/english/hi/grammar-preposition-and-conjunction.html"
+                hi: "content/semester-4/english/en/grammar-preposition-and-conjunction.html"
               },
               test: {
                 en: "content/semester-4/english/en/test_grammar-preposition-and-conjunction.html",
-                hi: "content/semester-4/english/hi/test_grammar-preposition-and-conjunction.html"
+                hi: "content/semester-4/english/en/test_grammar-preposition-and-conjunction.html"
               }
             },
             {
               id: "writing",
-              title: { en: "Writing", hi: "लेखन" },
+              title: { en: "Writing", hi: "Writing" },
               summary: {
                 en: "Writing skills, description of pictures or objects, composition, letter writing, application writing, forms, and tense forms.",
                 hi: "लेखन कौशल, चित्र या वस्तु वर्णन, रचना, पत्र लेखन, आवेदन लेखन, फार्म भरना और काल रूप।"
               },
               file: {
                 en: "content/semester-4/english/en/writing.html",
-                hi: "content/semester-4/english/hi/writing.html"
+                hi: "content/semester-4/english/en/writing.html"
               },
               test: {
                 en: "content/semester-4/english/en/test_writing.html",
-                hi: "content/semester-4/english/hi/test_writing.html"
+                hi: "content/semester-4/english/en/test_writing.html"
               }
             },
             {
               id: "lesson-planning",
-              title: { en: "Lesson Planning", hi: "पाठ योजना" },
+              title: { en: "Lesson Planning", hi: "Lesson Planning" },
               summary: {
                 en: "Lesson plan meaning, characteristics, importance, preparation, format, and plans for prose and poetry.",
                 hi: "पाठ योजना का अर्थ, विशेषताएं, महत्व, तैयारी, प्रारूप और गद्य-पद्य की पाठ योजना।"
               },
               file: {
                 en: "content/semester-4/english/en/lesson-planning.html",
-                hi: "content/semester-4/english/hi/lesson-planning.html"
+                hi: "content/semester-4/english/en/lesson-planning.html"
               },
               test: {
                 en: "content/semester-4/english/en/test_lesson-planning.html",
-                hi: "content/semester-4/english/hi/test_lesson-planning.html"
+                hi: "content/semester-4/english/en/test_lesson-planning.html"
               }
             }
           ],
@@ -5079,7 +5079,7 @@ window.COURSE_CATALOG = {
               id: "english-1",
               title: {
                 en: "Test 1",
-                hi: "टेस्ट 1"
+                hi: "Test 1"
               },
               summary: {
                 en: "Mixed subject-level practice across all chapters.",
@@ -5087,7 +5087,7 @@ window.COURSE_CATALOG = {
               },
               file: {
                 en: "content/semester-4/english/tests/en/test_english_1.html",
-                hi: "content/semester-4/english/tests/hi/test_english_1.html"
+                hi: "content/semester-4/english/tests/en/test_english_1.html"
               }
             }
           ]
